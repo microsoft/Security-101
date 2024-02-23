@@ -1,5 +1,7 @@
 #  Cybersecurity for Beginners – a curriculum
 
+> View these instructions in [Spanish](/translations/es/README.md)
+
 This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
 
 ![Cybersecurity for Beginners](images/banner.jpg)
