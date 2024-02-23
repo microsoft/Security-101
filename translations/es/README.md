@@ -1,32 +1,32 @@
-#  Cybersecurity for Beginners – a curriculum
+# Ciberseguridad para Principiantes - Plan de Estudios
 
-> View these instructions in [Spanish](/translations/es/README.md)
+> Puede consultar las instrucciones en [Ingles](../../README.md)
 
-This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
+Este curso está diseñado para enseñarle conceptos fundamentales de ciberseguridad para poner en marcha su aprendizaje de seguridad. Es un curso elaborado de forma independiente al proveedor y está dividido en pequeñas lecciones que te llevarán entre 30 y 60 minutos. Cada lección incluye un pequeño cuestionario y enlaces a lecturas adicionales por si quieres profundizar un poco más en el tema.
 
-![Cybersecurity for Beginners](images/banner.jpg)
+![Ciberseguridad para Principiantes](../../images/banner.jpg)
 
-What this course covers:
-- Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
-- Understanding what a security control is and what forms they take.
-- Understanding what zero trust is and why this is important in modern cyber security.
-- Understanding key concepts and themes across identity, networking, security operations, infrastructure and data security.
-- Giving some examples of tools used to implement security controls.
+El curso abarca los siguientes temas:
+- Conceptos básicos de ciberseguridad, como la CIA triad, las diferencias entre risks, threats, etc,
+- Comprensión de qué es un control de seguridad y qué formas adoptan.
+- Comprensión de qué es la confianza cero (zero trust) y por qué es importante en la ciberseguridad moderna.
+- Comprensión de los conceptos y temas clave en materia de identidad (across identity), redes, operaciones de seguridad, infraestructura y seguridad de los datos.
+- Dar algunos ejemplos de herramientas utilizadas para aplicar controles de seguridad.
 
-What this course does not cover:
-- How to use specific security tools.
-- How to "hack" or do red teaming/offensive security.
-- Learning about specific compliance standards.
+El presente curso no abarca:
+- Como hacer uso de herramientas especificas de seguridad
+- Cómo "hackear" o hacer red teaming/offensive security.
+- Conocer los estandares especificos de cumplimiento (specific compliance standards).
 
-[![Watch the video](images/intro_placeholder.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+[![Mira el video](../../images/intro_placeholder.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-When you have finished this course, you can move onto some of our Microsoft Learn modules. We recommend you continue your learning with  [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam.](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+Cuando hayas terminado este curso, podrás pasar a alguno de nuestros módulos de Microsoft Learn. Le recomendamos que continúe su aprendizaje con [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) Finalmente, podría considerar la posibilidad de tomar el [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam.](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
 
-If you have any feedback or suggestions on this course and any content we're missing, we'd love to hear from you! 
+Si tienes cualquier sugerencia o feedback acerca del curso o consideras algun contenido faltante, ¡Estaremos encantados de escucharte!
 
 <table>
-  <tr><td>No</td><td>Lesson</td><td>Learning objectives</td></tr>
-  <tr><td colspan="3"><strong>Module 1: Basic security concepts</strong></td></tr>
+  <tr><td>No</td><td>Lección</td><td>Objetivos de Aprendizaje</td></tr>
+  <tr><td colspan="3"><strong>Module 1: Conceptos básicos de seguridad</strong></td></tr>
   <tr><td>1.1</td><td><a href="https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md">The CIA triad</a></td><td>Learn about confidentiality, availability and integrity. Also authenticity and also nonrepudiation and privacy.</td></tr>
   <tr><td>1.2</td><td><a href="https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md">Common cyber security threats</a></td><td>Learn about the common cyber security threats facing individuals and organizations.</td></tr>
   <tr>
@@ -158,9 +158,9 @@ If you have any feedback or suggestions on this course and any content we're mis
   </tr>
 </table>
 
-## 🌐 Help Wanted!
+## 🌐 ¡Necesitamos ayuda!
 
-Would you like to contribute a translation? Please read our [translation guidelines](https://github.com/microsoft/Security-101).
+¿Desea contribuir con una traducción? Lea nuestro [Normas de Traducción](https://github.com/microsoft/Security-101).
 
 ## 🎒  Other Courses 
 
