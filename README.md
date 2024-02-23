@@ -1,20 +1,22 @@
-#  Cybersecurity for Beginners – a curriculum
+#  🚀 Cybersecurity for Beginners – a curriculum
 
 This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
 
 ![Cybersecurity for Beginners](images/banner.jpg)
 
-What this course covers:
-- Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
-- Understanding what a security control is and what forms they take.
-- Understanding what zero trust is and why this is important in modern cyber security.
-- Understanding key concepts and themes across identity, networking, security operations, infrastructure and data security.
-- Giving some examples of tools used to implement security controls.
+What this course covers 📚
 
-What this course does not cover:
-- How to use specific security tools.
-- How to "hack" or do red teaming/offensive security.
-- Learning about specific compliance standards.
+- 🔐 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
+- 🛡️ Understanding what a security control is and what forms they take.
+- 🌐 Understanding what zero trust is and why this is important in modern cyber security.
+- 🔑 Understanding key concepts and themes across identity, networking, security operations, infrastructure and data security.
+- 🔧 Giving some examples of tools used to implement security controls.
+
+What this course does not cover 🙅‍♂️
+
+- 🚫 How to use specific security tools.
+- 🚫 How to "hack" or do red teaming/offensive security.
+- 🚫 Learning about specific compliance standards.
 
 [![Watch the video](images/intro_placeholder.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
@@ -22,6 +24,7 @@ When you have finished this course, you can move onto some of our Microsoft Lear
 
 If you have any feedback or suggestions on this course and any content we're missing, we'd love to hear from you! 
 
+## Modules Overview 📝 
 | **Module number** | **Module name**                           | **Concepts taught**                  | **Learning objectives**                                                                                          |
 |-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **1.1**           | Basic security concepts                   | [The CIA triad](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Learn about confidentiality, availability and integrity. Also authenticity and also nonrepudiation and privacy. |
@@ -60,7 +63,7 @@ Our team produces other courses! Check out:
 - [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-96948-sayoung)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-96948-sayoung)
 - [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-96948-sayoung)
-- [Generative AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-96948-sayoung)
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-96948-sayoung)
 - [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-96948-sayoung)
 - [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-96948-sayoung)
