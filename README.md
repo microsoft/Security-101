@@ -1,4 +1,12 @@
-#  🚀 Cybersecurity for Beginners – a curriculum
+![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)
+![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)
+![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)
+
+# 🚀 Cybersecurity for Beginners – a curriculum
 
 This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
 
