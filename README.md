@@ -1,4 +1,12 @@
-#  🚀 Cybersecurity for Beginners – a curriculum
+![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)
+![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)
+![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)
+
+# 🚀 Cybersecurity for Beginners – a curriculum
 
 This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
 
@@ -20,9 +28,11 @@ What this course does not cover 🙅‍♂️
 
 [![Watch the video](images/intro_placeholder.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-When you have finished this course, you can move onto some of our Microsoft Learn modules. We recommend you continue your learning with  [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam.](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+When you have finished this course, you can move onto some of our Microsoft Learn modules. We recommend you continue your learning with  [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
 
-If you have any feedback or suggestions on this course and any content we're missing, we'd love to hear from you! 
+Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam.](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+
+> 💁 If you have any feedback or suggestions on this course and any content we're missing, we'd love to hear from you!
 
 ## Modules Overview 📝 
 | **Module number** | **Module name**                           | **Concepts taught**                  | **Learning objectives**                                                                                          |
