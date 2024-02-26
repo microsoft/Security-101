@@ -1,7 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)
 ![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)
 ![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)
