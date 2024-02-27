@@ -1,9 +1,9 @@
-![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)
-![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)
-![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)
-![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
 
 # 🚀 Cybersecurity for Beginners – a curriculum
 
