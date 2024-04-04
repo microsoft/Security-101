@@ -64,7 +64,10 @@ Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Comp
 | **7.1**           | Data security fundamentals                | [Data security key concepts](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Learn about data classification and retention and why this is important to an organization.                     |
 | **7.2**           | Data security fundamentals                | [Data security capabilities](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Learn about data security tooling – DLP, inside risk management, data governance, etc.                          |
 | **7.3**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
-
+| **8.1**           | AI security fundamentals                | [AI security key concepts](https://github.com/microsoft/Security-101-beginners/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Learn about confidentiality, availability and integrity. Also authenticity and also nonrepudiation and privacy.                 |
+| **8.2**           | AI security fundamentals                | [AI security capabilities](https://github.com/microsoft/Security-101-beginners/blob/main/8.2%20AI%20security%20capabilities.md)           | Learn about AI security tooling and the controls that can be used to secure AI.                         |
+| **8.3**           | AI security fundamentals                | [Responsible AI](https://github.com/microsoft/Security-101-beginners/blob/main/8.3%20Responsible%20AI.md)          | Learn about what responsible AI is and AI specific harms that security professionals need to be aware of.                          |
+| **8.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 ## 🎒  Other Courses 
 
 Our team produces other courses! Check out:
