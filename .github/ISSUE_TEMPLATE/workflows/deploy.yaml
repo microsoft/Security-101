@@ -6,10 +6,18 @@ on:
       - main
     paths:
       - README.md
-
+      
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
 
     steps:
       - name: Checkout repository
