@@ -68,15 +68,20 @@ Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Comp
 | **8.2**           | AI security fundamentals                | [AI security capabilities](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Learn about AI security tooling and the controls that can be used to secure AI.                         |
 | **8.3**           | AI security fundamentals                | [Responsible AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Learn about what responsible AI is and AI specific harms that security professionals need to be aware of.                          |
 | **8.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
-## 🎒  Other Courses 
+
+## 🎒 Other Courses 
 
 Our team produces other courses! Check out:
 
-- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-96948-sayoung)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-96948-sayoung)
-- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-96948-sayoung)
-- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-96948-sayoung)
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-96948-sayoung)
-- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-96948-sayoung)
-- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-96948-sayoung)
-- [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-96948-sayoung)
+- [Generative AI for Beginners](https://aka.ms/genai-beginners)
+- [Generative AI for Beginners .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+- [Generative AI with JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
+- [AI for Beginners](https://aka.ms/ai-beginners)
+- [Data Science for Beginners](https://aka.ms/datascience-beginners)
+- [ML for Beginners](https://aka.ms/ml-beginners)
+- [Cybersecurity for Beginners](https://github.com/microsoft/Security-101) 
+- [Web Dev for Beginners](https://aka.ms/webdev-beginners)
+- [IoT for Beginners](https://aka.ms/iot-beginners)
+- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners)
+- [Mastering GitHub Copilot for C#/.NET Developers](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
+- [Choose Your Own Copilot Adventure](https://github.com/microsoft/CopilotAdventures)
