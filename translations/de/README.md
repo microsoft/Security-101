@@ -1,0 +1,103 @@
+<!--
+CO_OP_TRANSLATOR_METADATA:
+{
+  "original_hash": "0f9381fb23638f9341416474ce3c1563",
+  "translation_date": "2025-09-03T18:07:51+00:00",
+  "source_file": "README.md",
+  "language_code": "de"
+}
+-->
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)  
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)  
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)  
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)  
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)  
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)  
+
+# 🚀 Cybersicherheit für Anfänger – ein Lehrplan
+
+In diesem Zeitalter der rasanten Einführung von KI-Technologien ist es umso wichtiger, zu verstehen, wie IT-Systeme gesichert werden können. Dieser Kurs wurde entwickelt, um Ihnen grundlegende Konzepte der Cybersicherheit zu vermitteln und Ihr Sicherheitswissen zu starten. Er ist herstellerunabhängig und in kleine Lektionen unterteilt, die jeweils etwa 30-60 Minuten dauern. Jede Lektion enthält ein kleines Quiz und Links zu weiterführenden Informationen, falls Sie tiefer in das Thema eintauchen möchten.
+
+![Cybersecurity for Beginners](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.de.jpg)
+
+Was dieser Kurs abdeckt 📚
+
+- 🔐 Grundlegende Konzepte der Cybersicherheit wie das CIA-Dreieck, die Unterschiede zwischen Risiken, Bedrohungen usw.
+- 🛡️ Verständnis dafür, was eine Sicherheitsmaßnahme ist und welche Formen sie annehmen kann.
+- 🌐 Verständnis von Zero Trust und warum dies in der modernen Cybersicherheit wichtig ist.
+- 🔑 Verständnis von Schlüsselkonzepten und Themen in den Bereichen Identität, Netzwerke, Sicherheitsoperationen, Infrastruktur und Datensicherheit.
+- 🔧 Beispiele für Tools, die zur Umsetzung von Sicherheitsmaßnahmen verwendet werden.
+
+Was dieser Kurs nicht abdeckt 🙅‍♂️
+
+- 🚫 Wie man spezifische Sicherheitstools verwendet.
+- 🚫 Wie man "hackt" oder Red-Teaming/offensive Sicherheit betreibt.
+- 🚫 Informationen zu spezifischen Compliance-Standards.
+
+[![Watch the video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.de.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+
+Wenn Sie diesen Kurs abgeschlossen haben, können Sie mit einigen unserer Microsoft Learn-Module weitermachen. Wir empfehlen Ihnen, Ihr Lernen mit [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) fortzusetzen.
+
+Letztendlich könnten Sie in Betracht ziehen, die [Prüfung SC-900: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) abzulegen.
+
+> 💁 Wenn Sie Feedback oder Vorschläge zu diesem Kurs haben oder Inhalte vermissen, würden wir uns freuen, von Ihnen zu hören!
+
+## Modulübersicht 📝  
+| **Modulnummer**   | **Modulname**                             | **Vermittelte Konzepte**             | **Lernziele**                                                                                                   |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | Grundlegende Sicherheitskonzepte          | [Das CIA-Dreieck](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Lernen Sie mehr über Vertraulichkeit, Verfügbarkeit und Integrität sowie Authentizität, Nichtabstreitbarkeit und Datenschutz. |
+| **1.2**           | Grundlegende Sicherheitskonzepte          | [Häufige Bedrohungen der Cybersicherheit](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Lernen Sie mehr über die häufigsten Bedrohungen der Cybersicherheit für Einzelpersonen und Organisationen.                             |
+| **1.3**           | Grundlegende Sicherheitskonzepte          | [Verständnis des Risikomanagements](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Lernen Sie, Risiken zu bewerten und zu verstehen – Auswirkungen/Wahrscheinlichkeit und die Umsetzung von Maßnahmen.                                                                                                               | |
+| **1.4**           | Grundlegende Sicherheitskonzepte          | [Sicherheitspraktiken und Dokumentation](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Lernen Sie den Unterschied zwischen Richtlinien, Verfahren, Standards und Vorschriften/Gesetzen.                         |
+| **1.5**           | Grundlegende Sicherheitskonzepte          | [Zero Trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Lernen Sie, was Zero Trust ist und wie es die Architektur beeinflusst. Was ist Verteidigung in der Tiefe?                   |
+| **1.6**           | Grundlegende Sicherheitskonzepte          | [Das Modell der geteilten Verantwortung](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Was ist das Modell der geteilten Verantwortung und wie beeinflusst es die Cybersicherheit?                  |
+| **1.7**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | Grundlagen des Identitäts- und Zugriffsmanagements | [Schlüsselkonzepte des IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Lernen Sie mehr über das Prinzip der minimalen Rechte, die Trennung von Aufgaben und wie IAM Zero Trust unterstützt.               |
+| **2.2**           | Grundlagen des Identitäts- und Zugriffsmanagements | [IAM Zero Trust Architektur](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Lernen Sie, wie Identität die neue Grenze für moderne IT-Umgebungen ist und welche Bedrohungen sie abmildert.          |
+| **2.3**           | Grundlagen des Identitäts- und Zugriffsmanagements | [IAM-Funktionen](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Lernen Sie mehr über IAM-Funktionen und Maßnahmen zur Sicherung von Identitäten.                                                  |
+| **2.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | Grundlagen der Netzwerksicherheit         | [Schlüsselkonzepte des Netzwerks](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Lernen Sie mehr über Netzwerkkonzepte (IP-Adressen, Portnummern, Verschlüsselung usw.).                                 |
+| **3.2**           | Grundlagen der Netzwerksicherheit         | [Netzwerk Zero Trust Architektur](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Lernen Sie, wie Netzwerke zu einer End-to-End-ZT-Architektur beitragen und welche Bedrohungen sie abmildern.                  |
+| **3.3**           | Grundlagen der Netzwerksicherheit         | [Funktionen der Netzwerksicherheit](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Lernen Sie mehr über Netzwerksicherheits-Tools – Firewalls, WAF, DDoS-Schutz usw.                                    |
+| **3.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | Grundlagen der Sicherheitsoperationen     | [Schlüsselkonzepte der Sicherheitsoperationen](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Lernen Sie, warum Sicherheitsoperationen wichtig sind und wie sie sich von normalen IT-Operations-Teams unterscheiden.                  |
+| **4.2**           | Grundlagen der Sicherheitsoperationen     | [Zero Trust Architektur der Sicherheitsoperationen](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Lernen Sie, wie Sicherheitsoperationen zu einer End-to-End-ZT-Architektur beitragen und welche Bedrohungen sie abmildern.                      |
+| **4.3**           | Grundlagen der Sicherheitsoperationen     | [Funktionen der Sicherheitsoperationen](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Lernen Sie mehr über Tools für Sicherheitsoperationen – SIEM, XDR usw.                                                                    |
+| **4.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | Grundlagen der Anwendungssicherheit       | [Schlüsselkonzepte der Anwendungssicherheit](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Lernen Sie mehr über Konzepte der Anwendungssicherheit wie "secure by design", Eingabevalidierung usw.                                    |
+| **5.2**           | Grundlagen der Anwendungssicherheit       | [Funktionen der Anwendungssicherheit](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Lernen Sie mehr über Tools für Anwendungssicherheit: Sicherheitstools für Pipelines, Code-Scanning, Geheimnis-Scanning usw.                       |
+| **5.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | Grundlagen der Infrastruktursicherheit    | [Schlüsselkonzepte der Infrastruktursicherheit](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Lernen Sie mehr über die Härtung von Systemen, Patchen, Sicherheits-Hygiene, Container-Sicherheit.                                  |
+| **6.2**           | Grundlagen der Infrastruktursicherheit    | [Funktionen der Infrastruktursicherheit](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Lernen Sie mehr über Tools, die bei der Infrastruktursicherheit helfen können, z. B. CSPM, Container-Sicherheit usw.            |
+| **6.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | Grundlagen der Datensicherheit            | [Schlüsselkonzepte der Datensicherheit](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Lernen Sie mehr über Datenklassifizierung und -aufbewahrung und warum dies für eine Organisation wichtig ist.                     |
+| **7.2**           | Grundlagen der Datensicherheit            | [Funktionen der Datensicherheit](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Lernen Sie mehr über Tools für Datensicherheit – DLP, Management von Insider-Risiken, Daten-Governance usw.                          |
+| **7.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | Grundlagen der KI-Sicherheit              | [Schlüsselkonzepte der KI-Sicherheit](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Lernen Sie mehr über die Unterschiede und Gemeinsamkeiten zwischen traditioneller Sicherheit und KI-Sicherheit.                 |
+| **8.2**           | Grundlagen der KI-Sicherheit              | [Funktionen der KI-Sicherheit](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Lernen Sie mehr über Tools für KI-Sicherheit und Maßnahmen, die zur Sicherung von KI eingesetzt werden können.                         |
+| **8.3**           | Grundlagen der KI-Sicherheit              | [Verantwortungsvolle KI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Lernen Sie mehr über verantwortungsvolle KI und KI-spezifische Schäden, die Sicherheitsexperten kennen sollten.                          |
+| **8.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+
+## 🎒 Weitere Kurse  
+
+Unser Team bietet weitere Kurse an! Schauen Sie sich an:
+
+- [Generative KI für Anfänger](https://aka.ms/genai-beginners)  
+- [Generative KI für Anfänger .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)  
+- [Generative KI mit JavaScript](https://github.com/microsoft/generative-ai-with-javascript)  
+- [Generative KI mit Java](https://github.com/microsoft/Generative-AI-for-beginners-java)  
+- [KI für Anfänger](https://aka.ms/ai-beginners)  
+- [Datenwissenschaft für Anfänger](https://aka.ms/datascience-beginners)  
+- [Maschinelles Lernen für Anfänger](https://aka.ms/ml-beginners)  
+- [Cybersicherheit für Anfänger](https://github.com/microsoft/Security-101)  
+- [Webentwicklung für Anfänger](https://aka.ms/webdev-beginners)  
+- [IoT für Anfänger](https://aka.ms/iot-beginners)  
+- [XR-Entwicklung für Anfänger](https://github.com/microsoft/xr-development-for-beginners)  
+- [GitHub Copilot meistern für Paarprogrammierung](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)  
+- [GitHub Copilot meistern für C#/.NET-Entwickler](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)  
+- [Wähle dein eigenes Copilot-Abenteuer](https://github.com/microsoft/CopilotAdventures)  
+
+---
+
+**Haftungsausschluss**:  
+Dieses Dokument wurde mit dem KI-Übersetzungsdienst [Co-op Translator](https://github.com/Azure/co-op-translator) übersetzt. Obwohl wir uns um Genauigkeit bemühen, beachten Sie bitte, dass automatisierte Übersetzungen Fehler oder Ungenauigkeiten enthalten können. Das Originaldokument in seiner ursprünglichen Sprache sollte als maßgebliche Quelle betrachtet werden. Für kritische Informationen wird eine professionelle menschliche Übersetzung empfohlen. Wir übernehmen keine Haftung für Missverständnisse oder Fehlinterpretationen, die sich aus der Nutzung dieser Übersetzung ergeben.
