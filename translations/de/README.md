@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "33e83c2beb28a1b6e031416624dc23aa",
-  "translation_date": "2025-10-11T10:41:14+00:00",
+  "original_hash": "5946c53720de84d57b17eafd98095d72",
+  "translation_date": "2025-10-12T08:48:35+00:00",
   "source_file": "README.md",
   "language_code": "de"
 }
@@ -29,7 +29,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 # 🚀 Cybersicherheit für Anfänger – ein Lehrplan
 
-In dieser schnelllebigen Zeit der Einführung von KI-Technologien ist es umso wichtiger, zu verstehen, wie IT-Systeme gesichert werden können. Dieser Kurs wurde entwickelt, um Ihnen grundlegende Konzepte der Cybersicherheit zu vermitteln und Ihnen den Einstieg in das Thema Sicherheit zu erleichtern. Der Kurs ist herstellerunabhängig und in kleine Lektionen unterteilt, die jeweils etwa 30-60 Minuten dauern. Jede Lektion enthält ein kleines Quiz und Links zu weiterführenden Materialien, falls Sie tiefer in das Thema eintauchen möchten.
+In dieser schnelllebigen Zeit der Einführung von KI-Technologien ist es umso wichtiger, zu verstehen, wie IT-Systeme gesichert werden können. Dieser Kurs wurde entwickelt, um Ihnen grundlegende Konzepte der Cybersicherheit zu vermitteln und Ihnen den Einstieg in das Thema Sicherheit zu erleichtern. Der Kurs ist herstellerunabhängig und in kleine Lektionen unterteilt, die jeweils etwa 30-60 Minuten dauern. Jede Lektion enthält ein kleines Quiz und Links zu weiterführenden Informationen, falls Sie tiefer in das Thema eintauchen möchten.
 
 ![Cybersicherheit für Anfänger](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.de.jpg)
 
@@ -44,7 +44,7 @@ Was dieser Kurs abdeckt 📚
 Was dieser Kurs nicht abdeckt 🙅‍♂️
 
 - 🚫 Wie man spezifische Sicherheitstools verwendet.
-- 🚫 Wie man "hackt" oder Red-Teaming/Offensive Security durchführt.
+- 🚫 Wie man "hackt" oder Red-Teaming/Offensive Security betreibt.
 - 🚫 Informationen zu spezifischen Compliance-Standards.
 
 [![Video ansehen](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.de.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
@@ -65,9 +65,9 @@ Letztendlich könnten Sie in Betracht ziehen, die [Prüfung SC-900: Microsoft Se
 | **1.5**           | Grundlegende Sicherheitskonzepte          | [Zero Trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Lernen Sie, was Zero Trust ist und wie es die Architektur beeinflusst. Was ist Defense in Depth?                |
 | **1.6**           | Grundlegende Sicherheitskonzepte          | [Das Modell der geteilten Verantwortung](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Was ist das Modell der geteilten Verantwortung und wie beeinflusst es die Cybersicherheit?                      |
 | **1.7**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **2.1**           | Grundlagen des Identitäts- und Zugriffsmanagements | [Schlüsselkonzepte des IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Lernen Sie mehr über das Prinzip der minimalen Rechte, die Trennung von Aufgaben und wie IAM Zero Trust unterstützt. |
+| **2.1**           | Grundlagen des Identitäts- und Zugriffsmanagements | [Schlüsselkonzepte des IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Lernen Sie das Prinzip der minimalen Rechte, die Trennung von Aufgaben und wie IAM Zero Trust unterstützt.      |
 | **2.2**           | Grundlagen des Identitäts- und Zugriffsmanagements | [IAM Zero Trust Architektur](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Lernen Sie, wie Identität die neue Perimetergrenze für moderne IT-Umgebungen ist und welche Bedrohungen sie mindert. |
-| **2.3**           | Grundlagen des Identitäts- und Zugriffsmanagements | [IAM-Funktionen](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Lernen Sie mehr über IAM-Funktionen und Maßnahmen zur Sicherung von Identitäten.                                |
+| **2.3**           | Grundlagen des Identitäts- und Zugriffsmanagements | [IAM-Funktionen](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Lernen Sie IAM-Funktionen und Maßnahmen zur Sicherung von Identitäten kennen.                                   |
 | **2.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **3.1**           | Grundlagen der Netzwerksicherheit         | [Schlüsselkonzepte des Netzwerks](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Lernen Sie mehr über Netzwerk-Konzepte (IP-Adressen, Portnummern, Verschlüsselung usw.).                        |
 | **3.2**           | Grundlagen der Netzwerksicherheit         | [Netzwerk Zero Trust Architektur](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Lernen Sie, wie Netzwerke zu einer End-to-End-ZT-Architektur beitragen und welche Bedrohungen sie mindern.      |
@@ -80,20 +80,20 @@ Letztendlich könnten Sie in Betracht ziehen, die [Prüfung SC-900: Microsoft Se
 | **5.1**           | Grundlagen der Anwendungssicherheit       | [Schlüsselkonzepte der Anwendungssicherheit](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Lernen Sie mehr über Konzepte der Anwendungssicherheit wie "Secure by Design", Eingabevalidierung usw.         |
 | **5.2**           | Grundlagen der Anwendungssicherheit         | [AppSec-Funktionen](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Erfahren Sie mehr über AppSec-Tools: Sicherheitswerkzeuge für Pipelines, Code-Scanning, Geheimnis-Scanning usw.                       |
 | **5.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **6.1**           | Grundlagen der Infrastruktursicherheit      | [Schlüsselkonzepte der Infrastruktursicherheit](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Erfahren Sie mehr über Systemhärtung, Patch-Management, Sicherheitsstandards und Container-Sicherheit.                                  |
+| **6.1**           | Grundlagen der Infrastruktursicherheit      | [Schlüsselkonzepte der Infrastruktursicherheit](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Erfahren Sie mehr über Systemhärtung, Patchen, Sicherheitsstandards und Container-Sicherheit.                                  |
 | **6.2**           | Grundlagen der Infrastruktursicherheit      | [Funktionen der Infrastruktursicherheit](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Erfahren Sie mehr über Tools, die bei der Infrastruktursicherheit helfen können, z. B. CSPM, Container-Sicherheit usw.            |
 | **6.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **7.1**           | Grundlagen der Datensicherheit                | [Schlüsselkonzepte der Datensicherheit](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Erfahren Sie mehr über Datenklassifizierung und -aufbewahrung und warum dies für eine Organisation wichtig ist.                     |
 | **7.2**           | Grundlagen der Datensicherheit                | [Funktionen der Datensicherheit](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Erfahren Sie mehr über Tools zur Datensicherheit – DLP, Risikomanagement, Daten-Governance usw.                          |
 | **7.3**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
 | **8.1**           | Grundlagen der KI-Sicherheit                | [Schlüsselkonzepte der KI-Sicherheit](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Erfahren Sie mehr über die Unterschiede und Gemeinsamkeiten zwischen traditioneller Sicherheit und KI-Sicherheit.                 |
-| **8.2**           | Grundlagen der KI-Sicherheit                | [Funktionen der KI-Sicherheit](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Erfahren Sie mehr über Tools zur KI-Sicherheit und die Kontrollen, die zur Sicherung von KI eingesetzt werden können.                         |
+| **8.2**           | Grundlagen der KI-Sicherheit                | [Funktionen der KI-Sicherheit](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Erfahren Sie mehr über Tools zur KI-Sicherheit und die Kontrollen, die zur Sicherung von KI verwendet werden können.                         |
 | **8.3**           | Grundlagen der KI-Sicherheit                | [Verantwortungsvolle KI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Erfahren Sie mehr darüber, was verantwortungsvolle KI ist und über KI-spezifische Risiken, die Sicherheitsexperten kennen sollten.                          |
 | **8.4**           | [Quiz am Ende des Moduls](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
 ## 🎒 Weitere Kurse 
 
-Unser Team bietet weitere Kurse an! Schauen Sie sich folgende an:
+Unser Team bietet weitere Kurse an! Schauen Sie sich an:
 
 - [Generative KI für Anfänger](https://aka.ms/genai-beginners)
 - [Generative KI für Anfänger .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
@@ -109,6 +109,16 @@ Unser Team bietet weitere Kurse an! Schauen Sie sich folgende an:
 - [GitHub Copilot meistern für Pair-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - [GitHub Copilot meistern für C#/.NET-Entwickler](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
 - [Wählen Sie Ihr eigenes Copilot-Abenteuer](https://github.com/microsoft/CopilotAdventures)
+
+## Hilfe erhalten
+
+Wenn Sie nicht weiterkommen oder Fragen zum Erstellen von KI-Anwendungen haben, treten Sie bei:
+
+[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+
+Wenn Sie Produktfeedback haben oder auf Fehler stoßen, besuchen Sie:
+
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 

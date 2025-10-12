@@ -1,15 +1,15 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "33e83c2beb28a1b6e031416624dc23aa",
-  "translation_date": "2025-10-11T11:14:00+00:00",
+  "original_hash": "5946c53720de84d57b17eafd98095d72",
+  "translation_date": "2025-10-12T09:20:42+00:00",
   "source_file": "README.md",
   "language_code": "lt"
 }
 -->
 [![GitHub Licencija](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
-[![GitHub Problemos ar Pasiūlymai](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
-[![GitHub Problemos ar Pasiūlymai](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Problemos arba Pasiūlymai](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Problemos arba Pasiūlymai](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
 [![GitHub Repo Žvaigždutės](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
 [![GitHub Stebėtojai](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
 [![GitHub Šakės](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
@@ -29,7 +29,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 # 🚀 Kibernetinis saugumas pradedantiesiems – mokymo programa
 
-Šiame sparčiai besikeičiančiame dirbtinio intelekto technologijų amžiuje dar svarbiau suprasti, kaip apsaugoti IT sistemas. Šis kursas skirtas išmokyti pagrindinių kibernetinio saugumo koncepcijų, kad galėtumėte pradėti mokytis saugumo. Kursas yra nepriklausomas nuo tiekėjų ir suskirstytas į mažas pamokas, kurių kiekviena trunka apie 30–60 minučių. Kiekvienoje pamokoje yra trumpas testas ir nuorodos į papildomą literatūrą, jei norite giliau pasinerti į temą.
+Šiame sparčiai besikeičiančiame dirbtinio intelekto technologijų amžiuje dar svarbiau suprasti, kaip apsaugoti IT sistemas. Šis kursas skirtas išmokyti pagrindinių kibernetinio saugumo koncepcijų, kad galėtumėte pradėti mokytis saugumo pagrindų. Kursas yra nepriklausomas nuo tiekėjų ir suskirstytas į mažas pamokas, kurių kiekviena trunka apie 30–60 minučių. Kiekvienoje pamokoje yra trumpas testas ir nuorodos į papildomą literatūrą, jei norite giliau pasinerti į temą.
 
 ![Kibernetinis saugumas pradedantiesiems](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.lt.jpg)
 
@@ -39,7 +39,7 @@ Ką apima šis kursas 📚
 - 🛡️ Supratimas, kas yra saugumo kontrolė ir kokios jos formos.
 - 🌐 Supratimas, kas yra „zero trust“ ir kodėl tai svarbu šiuolaikiniame kibernetiniame saugume.
 - 🔑 Pagrindinių koncepcijų ir temų supratimas apie identitetą, tinklų saugumą, saugumo operacijas, infrastruktūrą ir duomenų saugumą.
-- 🔧 Pavyzdžių apie įrankius, naudojamus saugumo kontrolėms įgyvendinti.
+- 🔧 Pavyzdžių pateikimas apie įrankius, naudojamus saugumo kontrolėms įgyvendinti.
 
 Ko šis kursas neapima 🙅‍♂️
 
@@ -49,11 +49,11 @@ Ko šis kursas neapima 🙅‍♂️
 
 [![Žiūrėti vaizdo įrašą](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.lt.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Kai baigsite šį kursą, galite pereiti prie kai kurių mūsų „Microsoft Learn“ modulių. Rekomenduojame tęsti mokymąsi su [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)
+Kai baigsite šį kursą, galite pereiti prie kai kurių mūsų „Microsoft Learn“ modulių. Rekomenduojame tęsti mokymąsi su [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
 
 Galiausiai galite apsvarstyti galimybę laikyti [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals egzaminą.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
 
-> 💁 Jei turite atsiliepimų ar pasiūlymų dėl šio kurso ir manote, kad trūksta kokio nors turinio, mums būtų malonu išgirsti jūsų nuomonę!
+> 💁 Jei turite atsiliepimų ar pasiūlymų dėl šio kurso ir manote, kad trūksta tam tikro turinio, mums būtų malonu išgirsti jūsų nuomonę!
 
 ## Modulių apžvalga 📝 
 | **Modulio numeris** | **Modulio pavadinimas**                  | **Mokomos koncepcijos**              | **Mokymosi tikslai**                                                                                           |
@@ -69,15 +69,15 @@ Galiausiai galite apsvarstyti galimybę laikyti [Exam SC-900: Microsoft Security
 | **2.2**             | Identiteto ir prieigos valdymo pagrindai | [IAM „zero trust“ architektūra](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Sužinokite, kaip identitetas tampa nauju perimetru šiuolaikinėse IT aplinkose ir kokias grėsmes jis mažina.    |
 | **2.3**             | Identiteto ir prieigos valdymo pagrindai | [IAM galimybės](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Sužinokite apie IAM galimybes ir kontrolės priemones, skirtas apsaugoti identitetus.                           |
 | **2.4**             | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **3.1**             | Tinklo saugumo pagrindai                | [Tinklo pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Sužinokite apie tinklo koncepcijas (IP adresavimą, prievadų numerius, šifravimą ir pan.).                      |
-| **3.2**             | Tinklo saugumo pagrindai                | [Tinklo „zero trust“ architektūra](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Sužinokite, kaip tinklas prisideda prie E2E ZT architektūros ir kokias grėsmes jis mažina.                     |
-| **3.3**             | Tinklo saugumo pagrindai                | [Tinklo saugumo galimybės](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Sužinokite apie tinklo saugumo įrankius – ugniasienes, WAF, DDoS apsaugą ir pan.                               |
+| **3.1**             | Tinklo saugumo pagrindai                 | [Tinklo pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Sužinokite apie tinklo koncepcijas (IP adresavimą, prievadų numerius, šifravimą ir pan.).                      |
+| **3.2**             | Tinklo saugumo pagrindai                 | [Tinklo „zero trust“ architektūra](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Sužinokite, kaip tinklas prisideda prie E2E ZT architektūros ir kokias grėsmes jis mažina.                     |
+| **3.3**             | Tinklo saugumo pagrindai                 | [Tinklo saugumo galimybės](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Sužinokite apie tinklo saugumo įrankius – ugniasienes, WAF, DDoS apsaugą ir pan.                               |
 | **3.4**             | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **4.1**             | Saugumo operacijų pagrindai             | [SecOps pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Sužinokite, kodėl saugumo operacijos yra svarbios ir kaip jos skiriasi nuo įprastų IT operacijų komandų.       |
-| **4.2**             | Saugumo operacijų pagrindai             | [SecOps „zero trust“ architektūra](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Sužinokite, kaip SecOps prisideda prie E2E ZT architektūros ir kokias grėsmes jis mažina.                      |
-| **4.3**             | Saugumo operacijų pagrindai             | [SecOps galimybės](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Sužinokite apie SecOps įrankius – SIEM, XDR ir pan.                                                            |
+| **4.1**             | Saugumo operacijų pagrindai              | [SecOps pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Sužinokite, kodėl saugumo operacijos yra svarbios ir kaip jos skiriasi nuo įprastų IT operacijų komandų.       |
+| **4.2**             | Saugumo operacijų pagrindai              | [SecOps „zero trust“ architektūra](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Sužinokite, kaip SecOps prisideda prie E2E ZT architektūros ir kokias grėsmes jis mažina.                      |
+| **4.3**             | Saugumo operacijų pagrindai              | [SecOps galimybės](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Sužinokite apie SecOps įrankius – SIEM, XDR ir pan.                                                            |
 | **4.4**             | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **5.1**             | Programų saugumo pagrindai              | [AppSec pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Sužinokite apie AppSec koncepcijas, tokias kaip saugumas pagal dizainą, įvesties validacija ir pan.            |
+| **5.1**             | Programų saugumo pagrindai               | [AppSec pagrindinės koncepcijos](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Sužinokite apie AppSec koncepcijas, tokias kaip saugumas pagal dizainą, įvesties validacija ir pan.            |
 | **5.2**           | Pagrindai apie programų saugumą           | [AppSec galimybės](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Sužinokite apie AppSec įrankius: saugumo priemones vamzdynuose, kodo skenavimą, slaptažodžių skenavimą ir kt.    |
 | **5.3**           | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **6.1**           | Pagrindai apie infrastruktūros saugumą    | [Infrastruktūros saugumo pagrindinės sąvokos](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Sužinokite apie sistemų stiprinimą, pataisymus, saugumo higieną, konteinerių saugumą.                           |
@@ -87,7 +87,7 @@ Galiausiai galite apsvarstyti galimybę laikyti [Exam SC-900: Microsoft Security
 | **7.2**           | Pagrindai apie duomenų saugumą            | [Duomenų saugumo galimybės](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Sužinokite apie duomenų saugumo įrankius – DLP, vidinės rizikos valdymą, duomenų valdymą ir kt.                  |
 | **7.3**           | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
 | **8.1**           | Pagrindai apie AI saugumą                 | [AI saugumo pagrindinės sąvokos](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Sužinokite apie tradicinio saugumo ir AI saugumo skirtumus bei panašumus.                                       |
-| **8.2**           | Pagrindai apie AI saugumą                 | [AI saugumo galimybės](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Sužinokite apie AI saugumo įrankius ir kontrolės priemones, kurios gali būti naudojamos AI saugumui užtikrinti.  |
+| **8.2**           | Pagrindai apie AI saugumą                 | [AI saugumo galimybės](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Sužinokite apie AI saugumo įrankius ir kontrolės priemones, kurios gali būti naudojamos AI apsaugai.             |
 | **8.3**           | Pagrindai apie AI saugumą                 | [Atsakingas AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Sužinokite, kas yra atsakingas AI ir apie specifines AI grėsmes, kurias saugumo specialistai turi žinoti.        |
 | **8.4**           | [Modulio pabaigos testas](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
@@ -106,11 +106,21 @@ Mūsų komanda kuria ir kitus kursus! Peržiūrėkite:
 - [Web kūrimas pradedantiesiems](https://aka.ms/webdev-beginners)
 - [IoT pradedantiesiems](https://aka.ms/iot-beginners)
 - [XR kūrimas pradedantiesiems](https://github.com/microsoft/xr-development-for-beginners)
-- [GitHub Copilot įvaldymas poriniam programavimui](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
-- [GitHub Copilot įvaldymas C#/.NET programuotojams](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
+- [GitHub Copilot meistriškumas poriniam programavimui](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
+- [GitHub Copilot meistriškumas C#/.NET programuotojams](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
 - [Pasirinkite savo Copilot nuotykį](https://github.com/microsoft/CopilotAdventures)
+
+## Pagalba
+
+Jei susiduriate su sunkumais ar turite klausimų apie AI programų kūrimą, prisijunkite:
+
+[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+
+Jei turite atsiliepimų apie produktą arba susiduriate su klaidomis, apsilankykite:
+
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 **Atsakomybės atsisakymas**:  
-Šis dokumentas buvo išverstas naudojant AI vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors siekiame tikslumo, prašome atkreipti dėmesį, kad automatiniai vertimai gali turėti klaidų ar netikslumų. Originalus dokumentas jo gimtąja kalba turėtų būti laikomas autoritetingu šaltiniu. Dėl svarbios informacijos rekomenduojama profesionali žmogaus vertimo paslauga. Mes neprisiimame atsakomybės už nesusipratimus ar neteisingus aiškinimus, kilusius dėl šio vertimo naudojimo.
+Šis dokumentas buvo išverstas naudojant AI vertimo paslaugą [Co-op Translator](https://github.com/Azure/co-op-translator). Nors stengiamės užtikrinti tikslumą, prašome atkreipti dėmesį, kad automatiniai vertimai gali turėti klaidų ar netikslumų. Originalus dokumentas jo gimtąja kalba turėtų būti laikomas autoritetingu šaltiniu. Kritinei informacijai rekomenduojama naudoti profesionalų žmogaus vertimą. Mes neprisiimame atsakomybės už nesusipratimus ar klaidingus interpretavimus, atsiradusius naudojant šį vertimą.
