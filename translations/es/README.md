@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "33e83c2beb28a1b6e031416624dc23aa",
-  "translation_date": "2025-10-11T10:40:32+00:00",
+  "original_hash": "5946c53720de84d57b17eafd98095d72",
+  "translation_date": "2025-10-12T08:47:54+00:00",
   "source_file": "README.md",
   "language_code": "es"
 }
@@ -29,7 +29,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 # 🚀 Ciberseguridad para principiantes – un currículo
 
-En esta era de rápida adopción de tecnologías de IA, es aún más crucial entender cómo proteger los sistemas de TI. Este curso está diseñado para enseñarte conceptos fundamentales de ciberseguridad y comenzar tu aprendizaje en seguridad. Es independiente de proveedores y está dividido en pequeñas lecciones que deberían tomar entre 30 y 60 minutos para completarse. Cada lección incluye un pequeño cuestionario y enlaces para lecturas adicionales si deseas profundizar en el tema.
+En esta era de rápida adopción de tecnologías de IA, es aún más crucial entender cómo proteger los sistemas de TI. Este curso está diseñado para enseñarte conceptos fundamentales de ciberseguridad y ayudarte a iniciar tu aprendizaje en seguridad. Es independiente de proveedores y está dividido en lecciones cortas que deberían tomar entre 30 y 60 minutos para completarse. Cada lección incluye un pequeño cuestionario y enlaces para lecturas adicionales si deseas profundizar en el tema.
 
 ![Ciberseguridad para principiantes](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.es.jpg)
 
@@ -49,23 +49,23 @@ Lo que este curso no cubre 🙅‍♂️
 
 [![Ver el video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.es.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Cuando hayas terminado este curso, puedes continuar con algunos de nuestros módulos de Microsoft Learn. Te recomendamos seguir aprendiendo con [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)  
+Cuando termines este curso, puedes continuar con algunos de nuestros módulos de Microsoft Learn. Te recomendamos seguir aprendiendo con [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)  
 
-Finalmente, podrías considerar tomar el [Examen SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)  
+Finalmente, podrías considerar tomar el [Examen SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
 
-> 💁 Si tienes comentarios o sugerencias sobre este curso o contenido que crees que falta, ¡nos encantaría escucharte!
+> 💁 Si tienes comentarios o sugerencias sobre este curso o crees que falta algún contenido, ¡nos encantaría saber de ti!
 
 ## Resumen de módulos 📝  
 | **Número de módulo** | **Nombre del módulo**                   | **Conceptos enseñados**              | **Objetivos de aprendizaje**                                                                                     |
 |-----------------------|-----------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | **1.1**               | Conceptos básicos de seguridad         | [La tríada CIA](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Aprende sobre confidencialidad, disponibilidad e integridad. También autenticidad, no repudio y privacidad.     |
 | **1.2**               | Conceptos básicos de seguridad         | [Amenazas comunes de ciberseguridad](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Aprende sobre las amenazas comunes de ciberseguridad que enfrentan individuos y organizaciones.                 |
-| **1.3**               | Conceptos básicos de seguridad         | [Comprender la gestión de riesgos](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Aprende sobre cómo evaluar y comprender el riesgo: impacto/probabilidad e implementar controles.                |
+| **1.3**               | Conceptos básicos de seguridad         | [Comprender la gestión de riesgos](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Aprende a evaluar y comprender el riesgo: impacto/probabilidad e implementación de controles.                   |
 | **1.4**               | Conceptos básicos de seguridad         | [Prácticas y documentación de seguridad](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Aprende sobre la diferencia entre políticas, procedimientos, estándares y regulaciones/leyes.                   |
 | **1.5**               | Conceptos básicos de seguridad         | [Confianza cero](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Aprende qué es la confianza cero y cómo afecta la arquitectura. ¿Qué es la defensa en profundidad?              |
-| **1.6**               | Conceptos básicos de seguridad         | [El modelo de responsabilidad compartida](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | ¿Qué es el modelo de responsabilidad compartida y cómo afecta la ciberseguridad?                                |
+| **1.6**               | Conceptos básicos de seguridad         | [Modelo de responsabilidad compartida](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | ¿Qué es el modelo de responsabilidad compartida y cómo afecta la ciberseguridad?                                |
 | **1.7**               | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **2.1**               | Fundamentos de gestión de identidad y acceso | [Conceptos clave de IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Aprende sobre el principio de privilegio mínimo, segregación de funciones y cómo IAM respalda la confianza cero.|
+| **2.1**               | Fundamentos de gestión de identidad y acceso | [Conceptos clave de IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Aprende sobre el principio de menor privilegio, la segregación de funciones y cómo IAM respalda la confianza cero. |
 | **2.2**               | Fundamentos de gestión de identidad y acceso | [Arquitectura de confianza cero en IAM](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Aprende cómo la identidad es el nuevo perímetro para entornos de TI modernos y las amenazas que mitiga.         |
 | **2.3**               | Fundamentos de gestión de identidad y acceso | [Capacidades de IAM](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Aprende sobre las capacidades y controles de IAM para proteger identidades.                                     |
 | **2.4**               | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
@@ -78,28 +78,28 @@ Finalmente, podrías considerar tomar el [Examen SC-900: Microsoft Security, Com
 | **4.3**               | Fundamentos de operaciones de seguridad | [Capacidades de SecOps](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Aprende sobre herramientas de SecOps: SIEM, XDR, etc.                                                           |
 | **4.4**               | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **5.1**               | Fundamentos de seguridad de aplicaciones | [Conceptos clave de AppSec](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Aprende sobre conceptos de AppSec como diseño seguro, validación de entradas, etc.                              |
-| **5.2**           | Fundamentos de seguridad de aplicaciones  | [Capacidades de AppSec](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Aprende sobre herramientas de AppSec: herramientas de seguridad en el pipeline, análisis de código, escaneo de secretos, etc. |
+| **5.2**           | Fundamentos de seguridad de aplicaciones         | [Capacidades de AppSec](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Aprende sobre herramientas de AppSec: herramientas de seguridad en el pipeline, análisis de código, escaneo de secretos, etc.                       |
 | **5.3**           | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **6.1**           | Fundamentos de seguridad de infraestructura | [Conceptos clave de seguridad de infraestructura](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Aprende sobre endurecimiento de sistemas, aplicación de parches, higiene de seguridad, seguridad de contenedores. |
-| **6.2**           | Fundamentos de seguridad de infraestructura | [Capacidades de seguridad de infraestructura](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Aprende sobre herramientas que pueden ayudar con la seguridad de infraestructura, como CSPM, seguridad de contenedores, etc. |
+| **6.1**           | Fundamentos de seguridad de infraestructura      | [Conceptos clave de seguridad de infraestructura](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Aprende sobre el fortalecimiento de sistemas, parches, higiene de seguridad, seguridad de contenedores.                                  |
+| **6.2**           | Fundamentos de seguridad de infraestructura      | [Capacidades de seguridad de infraestructura](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Aprende sobre herramientas que pueden ayudar con la seguridad de infraestructura, por ejemplo, CSPM, seguridad de contenedores, etc.            |
 | **6.3**           | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **7.1**           | Fundamentos de seguridad de datos          | [Conceptos clave de seguridad de datos](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Aprende sobre clasificación y retención de datos y por qué esto es importante para una organización.            |
-| **7.2**           | Fundamentos de seguridad de datos          | [Capacidades de seguridad de datos](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Aprende sobre herramientas de seguridad de datos: DLP, gestión de riesgos internos, gobernanza de datos, etc.   |
+| **7.1**           | Fundamentos de seguridad de datos                | [Conceptos clave de seguridad de datos](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Aprende sobre la clasificación y retención de datos y por qué esto es importante para una organización.                     |
+| **7.2**           | Fundamentos de seguridad de datos                | [Capacidades de seguridad de datos](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Aprende sobre herramientas de seguridad de datos: DLP, gestión de riesgos internos, gobernanza de datos, etc.                          |
 | **7.3**           | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
-| **8.1**           | Fundamentos de seguridad en IA             | [Conceptos clave de seguridad en IA](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Aprende sobre las diferencias y similitudes entre la seguridad tradicional y la seguridad en IA.                |
-| **8.2**           | Fundamentos de seguridad en IA             | [Capacidades de seguridad en IA](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Aprende sobre herramientas de seguridad en IA y los controles que se pueden usar para proteger la IA.           |
-| **8.3**           | Fundamentos de seguridad en IA             | [IA Responsable](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Aprende qué es la IA responsable y los daños específicos de la IA que los profesionales de seguridad deben conocer. |
+| **8.1**           | Fundamentos de seguridad en IA                | [Conceptos clave de seguridad en IA](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Aprende sobre las diferencias y similitudes entre la seguridad tradicional y la seguridad en IA.                 |
+| **8.2**           | Fundamentos de seguridad en IA                | [Capacidades de seguridad en IA](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Aprende sobre herramientas de seguridad en IA y los controles que se pueden usar para proteger la IA.                         |
+| **8.3**           | Fundamentos de seguridad en IA                | [IA Responsable](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Aprende qué es la IA responsable y los daños específicos de la IA que los profesionales de seguridad deben conocer.                          |
 | **8.4**           | [Cuestionario de fin de módulo](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
 ## 🎒 Otros Cursos 
 
-¡Nuestro equipo produce otros cursos! Descubre:
+¡Nuestro equipo produce otros cursos! Échales un vistazo:
 
-- [IA Generativa para Principiantes](https://aka.ms/genai-beginners)
-- [IA Generativa para Principiantes .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-- [IA Generativa con JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
-- [IA Generativa con Java](https://github.com/microsoft/Generative-AI-for-beginners-java)
-- [IA para Principiantes](https://aka.ms/ai-beginners)
+- [Inteligencia Artificial Generativa para Principiantes](https://aka.ms/genai-beginners)
+- [Inteligencia Artificial Generativa para Principiantes .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
+- [Inteligencia Artificial Generativa con JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
+- [Inteligencia Artificial Generativa con Java](https://github.com/microsoft/Generative-AI-for-beginners-java)
+- [Inteligencia Artificial para Principiantes](https://aka.ms/ai-beginners)
 - [Ciencia de Datos para Principiantes](https://aka.ms/datascience-beginners)
 - [Aprendizaje Automático para Principiantes](https://aka.ms/ml-beginners)
 - [Ciberseguridad para Principiantes](https://github.com/microsoft/Security-101) 
@@ -108,9 +108,19 @@ Finalmente, podrías considerar tomar el [Examen SC-900: Microsoft Security, Com
 - [Desarrollo XR para Principiantes](https://github.com/microsoft/xr-development-for-beginners)
 - [Dominando GitHub Copilot para Programación en Pareja](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - [Dominando GitHub Copilot para Desarrolladores C#/.NET](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
-- [Elige Tu Propia Aventura con Copilot](https://github.com/microsoft/CopilotAdventures)
+- [Elige tu propia aventura con Copilot](https://github.com/microsoft/CopilotAdventures)
+
+## Obtener Ayuda
+
+Si tienes dudas o preguntas sobre cómo construir aplicaciones de IA, únete a:
+
+[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+
+Si tienes comentarios sobre el producto o encuentras errores mientras desarrollas, visita:
+
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 **Descargo de responsabilidad**:  
-Este documento ha sido traducido utilizando el servicio de traducción automática [Co-op Translator](https://github.com/Azure/co-op-translator). Aunque nos esforzamos por garantizar la precisión, tenga en cuenta que las traducciones automatizadas pueden contener errores o imprecisiones. El documento original en su idioma nativo debe considerarse como la fuente autorizada. Para información crítica, se recomienda una traducción profesional realizada por humanos. No nos hacemos responsables de malentendidos o interpretaciones erróneas que puedan surgir del uso de esta traducción.
+Este documento ha sido traducido utilizando el servicio de traducción automática [Co-op Translator](https://github.com/Azure/co-op-translator). Si bien nos esforzamos por lograr precisión, tenga en cuenta que las traducciones automáticas pueden contener errores o imprecisiones. El documento original en su idioma nativo debe considerarse la fuente autorizada. Para información crítica, se recomienda una traducción profesional realizada por humanos. No nos hacemos responsables de malentendidos o interpretaciones erróneas que surjan del uso de esta traducción.

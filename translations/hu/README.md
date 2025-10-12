@@ -1,8 +1,8 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "33e83c2beb28a1b6e031416624dc23aa",
-  "translation_date": "2025-10-11T11:06:14+00:00",
+  "original_hash": "5946c53720de84d57b17eafd98095d72",
+  "translation_date": "2025-10-12T09:13:30+00:00",
   "source_file": "README.md",
   "language_code": "hu"
 }
@@ -24,7 +24,7 @@ CO_OP_TRANSLATOR_METADATA:
 
 **Ha további fordításokat szeretnél, a támogatott nyelvek listája [itt található](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
-#### Csatlakozz a közösségünkhöz 
+#### Csatlakozz közösségünkhöz 
 [![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
 
 # 🚀 Kiberbiztonság kezdőknek – tananyag
@@ -44,25 +44,25 @@ Mit tartalmaz ez a kurzus 📚
 Mit nem tartalmaz ez a kurzus 🙅‍♂️
 
 - 🚫 Konkrét biztonsági eszközök használatának bemutatása.
-- 🚫 "Hackelés" vagy piros csapat/offenzív biztonsági tevékenységek tanítása.
-- 🚫 Konkrét megfelelőségi szabványok tanulmányozása.
+- 🚫 "Hackelés" vagy piros csapat/offenzív biztonság tanulása.
+- 🚫 Konkrét megfelelőségi szabványok megismerése.
 
 [![Nézd meg a videót](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.hu.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Miután befejezted ezt a kurzust, továbbléphetsz néhány Microsoft Learn modulra. Javasoljuk, hogy folytasd a tanulást a [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) modulokkal.
+Ha befejezted ezt a kurzust, továbbléphetsz néhány Microsoft Learn modulra. Javasoljuk, hogy folytasd a tanulást a [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) modulokkal.
 
-Végül megfontolhatod a [SC-900 vizsga: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) letételét.
+Végül fontolóra veheted a [SC-900 vizsga: Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung) letételét.
 
-> 💁 Ha bármilyen visszajelzésed vagy javaslatod van a kurzussal kapcsolatban, vagy úgy érzed, hogy hiányzik valami tartalom, szívesen vesszük a véleményedet!
+> 💁 Ha bármilyen visszajelzésed vagy javaslatod van a kurzussal kapcsolatban, vagy úgy érzed, hogy hiányzik valami tartalom, szívesen hallanánk rólad!
 
 ## Modulok áttekintése 📝 
 | **Modul száma** | **Modul neve**                           | **Tanított fogalmak**                  | **Tanulási célok**                                                                                          |
 |-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **1.1**           | Alapvető biztonsági fogalmak                   | [A CIA triád](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Ismerd meg a titkosságot, rendelkezésre állást és integritást. Valamint az autentikációt, a nem visszautasíthatóságot és a magánéletet. |
+| **1.1**           | Alapvető biztonsági fogalmak                   | [A CIA triád](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Ismerd meg a titkosságot, rendelkezésre állást és integritást. Valamint az autentikusságot, a nem tagadhatóságot és a magánéletet. |
 | **1.2**           | Alapvető biztonsági fogalmak                   | [Gyakori kiberbiztonsági fenyegetések](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Ismerd meg az egyéneket és szervezeteket érintő gyakori kiberbiztonsági fenyegetéseket.                             |
-| **1.3**           | Alapvető biztonsági fogalmak                   | [Kockázatkezelés megértése](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Ismerd meg a kockázat felmérését és megértését – hatás/valószínűség és kontrollok bevezetése.                                                                                                               | |
+| **1.3**           | Alapvető biztonsági fogalmak                   | [Kockázatkezelés megértése](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Ismerd meg a kockázat felmérését és megértését – hatás/valószínűség és kontrollok megvalósítása.                                                                                                               | |
 | **1.4**           | Alapvető biztonsági fogalmak                   | [Biztonsági gyakorlatok és dokumentáció](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Ismerd meg a különbséget a szabályzatok, eljárások, szabványok és szabályozások/törvények között.                         |
-| **1.5**           | Alapvető biztonsági fogalmak                   | [Zero trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Ismerd meg, mi az a zero trust, és hogyan befolyásolja az architektúrát. Mi az a mélységi védelem?                   |
+| **1.5**           | Alapvető biztonsági fogalmak                   | [Zero trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Ismerd meg, mi az a zero trust, és hogyan befolyásolja az architektúrát? Mi az a mélységi védelem?                   |
 | **1.6**           | Alapvető biztonsági fogalmak                   | [Megosztott felelősségi modell](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Mi az a megosztott felelősségi modell, és hogyan befolyásolja a kiberbiztonságot?                  |
 | **1.7**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **2.1**           | Identitás- és hozzáférés-kezelés alapjai | [IAM kulcsfogalmak](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Ismerd meg a legkisebb jogosultság elvét, a feladatok szétválasztását, és hogyan támogatja az IAM a zero trustot.               |
@@ -77,23 +77,23 @@ Végül megfontolhatod a [SC-900 vizsga: Microsoft Security, Compliance, and Ide
 | **4.2**           | Biztonsági műveletek alapjai          | [SecOps zero trust architektúra](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Ismerd meg, hogyan járul hozzá a SecOps egy E2E ZT architektúrához, és milyen fenyegetéseket enyhít.                      |
 | **4.3**           | Biztonsági műveletek alapjai          | [SecOps képességek](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Ismerd meg a SecOps eszközeit – SIEM, XDR stb.                                                                    |
 | **4.4**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **5.1**           | Alkalmazásbiztonság alapjai         | [AppSec kulcsfogalmak](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Ismerd meg az AppSec fogalmakat, mint például a biztonságos tervezés, bemeneti validáció stb.                                    |
+| **5.1**           | Alkalmazásbiztonság alapjai         | [AppSec kulcsfogalmak](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Ismerd meg az AppSec fogalmait, mint például a biztonságos tervezés, bemeneti validáció stb.                                    |
 | **5.2**           | Alkalmazásbiztonság alapjai              | [AppSec képességek](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Ismerd meg az AppSec eszközöket: pipeline biztonsági eszközök, kódellenőrzés, titkosításellenőrzés stb.          |
 | **5.3**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **6.1**           | Infrastruktúra-biztonság alapjai         | [Infrastruktúra-biztonság kulcsfogalmai](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Ismerd meg a rendszerek megerősítését, frissítést, biztonsági higiéniát, konténerbiztonságot.                    |
-| **6.2**           | Infrastruktúra-biztonság alapjai         | [Infrastruktúra-biztonság képességei](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Ismerd meg az infrastruktúra-biztonságot támogató eszközöket, például CSPM, konténerbiztonság stb.               |
+| **6.2**           | Infrastruktúra-biztonság alapjai         | [Infrastruktúra-biztonság képességei](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Ismerd meg az infrastruktúra-biztonságot segítő eszközöket, például CSPM, konténerbiztonság stb.                 |
 | **6.3**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **7.1**           | Adatbiztonság alapjai                    | [Adatbiztonság kulcsfogalmai](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Ismerd meg az adatbesorolást és -megőrzést, valamint ezek fontosságát egy szervezet számára.                     |
 | **7.2**           | Adatbiztonság alapjai                    | [Adatbiztonság képességei](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Ismerd meg az adatbiztonsági eszközöket – DLP, belső kockázatkezelés, adatirányítás stb.                          |
 | **7.3**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
 | **8.1**           | MI-biztonság alapjai                     | [MI-biztonság kulcsfogalmai](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Ismerd meg a hagyományos biztonság és az MI-biztonság közötti különbségeket és hasonlóságokat.                    |
 | **8.2**           | MI-biztonság alapjai                     | [MI-biztonság képességei](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Ismerd meg az MI-biztonsági eszközöket és az MI védelmét szolgáló kontrollokat.                                   |
-| **8.3**           | MI-biztonság alapjai                     | [Felelős MI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Ismerd meg, mi az a felelős MI, és az MI-specifikus károkat, amelyekkel a biztonsági szakembereknek tisztában kell lenniük. |
+| **8.3**           | MI-biztonság alapjai                     | [Felelős MI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Ismerd meg, mi az a felelős MI, és az MI-specifikus károkat, amelyekről a biztonsági szakembereknek tudniuk kell. |
 | **8.4**           | [Modul végi kvíz](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
 ## 🎒 Egyéb kurzusok 
 
-Csapatunk további kurzusokat is készít! Nézd meg:
+Csapatunk más kurzusokat is készít! Nézd meg:
 
 - [Generatív MI kezdőknek](https://aka.ms/genai-beginners)
 - [Generatív MI kezdőknek .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
@@ -108,9 +108,19 @@ Csapatunk további kurzusokat is készít! Nézd meg:
 - [XR fejlesztés kezdőknek](https://github.com/microsoft/xr-development-for-beginners)
 - [GitHub Copilot mesterfokon páros programozáshoz](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
 - [GitHub Copilot mesterfokon C#/.NET fejlesztőknek](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
-- [Válaszd ki a saját Copilot kalandodat](https://github.com/microsoft/CopilotAdventures)
+- [Válaszd ki saját Copilot kalandodat](https://github.com/microsoft/CopilotAdventures)
+
+## Segítség kérése
+
+Ha elakadnál, vagy kérdésed van MI alkalmazások építésével kapcsolatban, csatlakozz:
+
+[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+
+Ha termék-visszajelzésed van, vagy hibát tapasztalsz az építés során, látogasd meg:
+
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
 **Felelősség kizárása**:  
-Ez a dokumentum az [Co-op Translator](https://github.com/Azure/co-op-translator) AI fordítási szolgáltatás segítségével került lefordításra. Bár törekszünk a pontosságra, kérjük, vegye figyelembe, hogy az automatikus fordítások hibákat vagy pontatlanságokat tartalmazhatnak. Az eredeti dokumentum az eredeti nyelvén tekintendő hiteles forrásnak. Kritikus információk esetén javasolt professzionális emberi fordítást igénybe venni. Nem vállalunk felelősséget semmilyen félreértésért vagy téves értelmezésért, amely a fordítás használatából eredhet.
+Ezt a dokumentumot az [Co-op Translator](https://github.com/Azure/co-op-translator) AI fordítási szolgáltatás segítségével fordították le. Bár törekszünk a pontosságra, kérjük, vegye figyelembe, hogy az automatikus fordítások hibákat vagy pontatlanságokat tartalmazhatnak. Az eredeti dokumentum az eredeti nyelvén tekintendő hiteles forrásnak. Kritikus információk esetén javasolt professzionális emberi fordítást igénybe venni. Nem vállalunk felelősséget a fordítás használatából eredő félreértésekért vagy téves értelmezésekért.
