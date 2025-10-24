@@ -1,114 +1,131 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "5946c53720de84d57b17eafd98095d72",
-  "translation_date": "2025-10-12T09:18:31+00:00",
+  "original_hash": "fc3d47b5af0cc4fc954ae5d2ea2f7811",
+  "translation_date": "2025-10-24T09:19:28+00:00",
   "source_file": "README.md",
   "language_code": "sl"
 }
 -->
-[![Licenca GitHub](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)  
-[![Težave ali predlogi za GitHub](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)  
-[![Težave ali predlogi za GitHub](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)  
-[![Zvezdice na GitHub repozitoriju](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)  
-[![Opazovalci na GitHubu](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)  
-[![Forki na GitHubu](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)  
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)  
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)  
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)  
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)  
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)  
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)  
 
-### 🌐 Večjezična podpora
+### 🌐 Podpora za več jezikov
 
-#### Podprto prek GitHub Action (avtomatizirano in vedno posodobljeno)
+#### Podprto prek GitHub Action (samodejno in vedno posodobljeno)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabščina](../ar/README.md) | [Bengalščina](../bn/README.md) | [Bolgarščina](../bg/README.md) | [Burmanščina (Mjanmar)](../my/README.md) | [Kitajščina (poenostavljena)](../zh/README.md) | [Kitajščina (tradicionalna, Hong Kong)](../hk/README.md) | [Kitajščina (tradicionalna, Macao)](../mo/README.md) | [Kitajščina (tradicionalna, Tajvan)](../tw/README.md) | [Hrvaščina](../hr/README.md) | [Češčina](../cs/README.md) | [Danščina](../da/README.md) | [Nizozemščina](../nl/README.md) | [Estonščina](../et/README.md) | [Finščina](../fi/README.md) | [Francoščina](../fr/README.md) | [Nemščina](../de/README.md) | [Grščina](../el/README.md) | [Hebrejščina](../he/README.md) | [Hindijščina](../hi/README.md) | [Madžarščina](../hu/README.md) | [Indonezijščina](../id/README.md) | [Italijanščina](../it/README.md) | [Japonščina](../ja/README.md) | [Korejščina](../ko/README.md) | [Litovščina](../lt/README.md) | [Malajščina](../ms/README.md) | [Maratščina](../mr/README.md) | [Nepalščina](../ne/README.md) | [Norveščina](../no/README.md) | [Perzijščina (Farsi)](../fa/README.md) | [Poljščina](../pl/README.md) | [Portugalščina (Brazilija)](../br/README.md) | [Portugalščina (Portugalska)](../pt/README.md) | [Pandžabščina (Gurmukhi)](../pa/README.md) | [Romunščina](../ro/README.md) | [Ruščina](../ru/README.md) | [Srbščina (cirilica)](../sr/README.md) | [Slovaščina](../sk/README.md) | [Slovenščina](./README.md) | [Španščina](../es/README.md) | [Svahili](../sw/README.md) | [Švedščina](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamilščina](../ta/README.md) | [Tajščina](../th/README.md) | [Turščina](../tr/README.md) | [Ukrajinščina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamščina](../vi/README.md)  
+[Arabic](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarian](../bg/README.md) | [Burmese (Myanmar)](../my/README.md) | [Chinese (Simplified)](../zh/README.md) | [Chinese (Traditional, Hong Kong)](../hk/README.md) | [Chinese (Traditional, Macau)](../mo/README.md) | [Chinese (Traditional, Taiwan)](../tw/README.md) | [Croatian](../hr/README.md) | [Czech](../cs/README.md) | [Danish](../da/README.md) | [Dutch](../nl/README.md) | [Estonian](../et/README.md) | [Finnish](../fi/README.md) | [French](../fr/README.md) | [German](../de/README.md) | [Greek](../el/README.md) | [Hebrew](../he/README.md) | [Hindi](../hi/README.md) | [Hungarian](../hu/README.md) | [Indonesian](../id/README.md) | [Italian](../it/README.md) | [Japanese](../ja/README.md) | [Korean](../ko/README.md) | [Lithuanian](../lt/README.md) | [Malay](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Norwegian](../no/README.md) | [Persian (Farsi)](../fa/README.md) | [Polish](../pl/README.md) | [Portuguese (Brazil)](../br/README.md) | [Portuguese (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Romanian](../ro/README.md) | [Russian](../ru/README.md) | [Serbian (Cyrillic)](../sr/README.md) | [Slovak](../sk/README.md) | [Slovenian](./README.md) | [Spanish](../es/README.md) | [Swahili](../sw/README.md) | [Swedish](../sv/README.md) | [Tagalog (Filipino)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turkish](../tr/README.md) | [Ukrainian](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamese](../vi/README.md)  
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-**Če želite dodati dodatne jezike za prevod, so podprti jeziki navedeni [tukaj](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
+**Če želite dodati dodatne jezike, so podprti jeziki navedeni [tukaj](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
 #### Pridružite se naši skupnosti  
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
+[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)  
 
 # 🚀 Kibernetska varnost za začetnike – učni načrt
 
-V tej hitro spreminjajoči se dobi sprejemanja tehnologij umetne inteligence je še toliko bolj pomembno razumeti, kako zaščititi IT sisteme. Ta tečaj je zasnovan tako, da vas nauči osnovnih konceptov kibernetske varnosti in vam omogoči začetek učenja o varnosti. Tečaj ni vezan na določenega ponudnika in je razdeljen na kratke lekcije, ki trajajo približno 30–60 minut. Vsaka lekcija vključuje kratek kviz in povezave do dodatnega branja, če želite temo raziskati bolj podrobno.
+V tem hitro spreminjajočem se obdobju sprejemanja tehnologije umetne inteligence je še bolj pomembno razumeti, kako zaščititi IT sisteme. Ta tečaj je zasnovan tako, da vas nauči osnovnih konceptov kibernetske varnosti in vam omogoči začetek učenja o varnosti. Tečaj je neodvisen od ponudnikov in razdeljen na kratke lekcije, ki trajajo približno 30–60 minut. Vsaka lekcija vključuje kratek kviz in povezave do dodatnega branja, če želite poglobiti svoje znanje o temi.
 
-![Kibernetska varnost za začetnike](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.sl.jpg)
+![Cybersecurity for Beginners](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.sl.jpg)
 
-Kaj ta tečaj zajema 📚
+Kaj zajema ta tečaj 📚
 
-- 🔐 Osnovni koncepti kibernetske varnosti, kot so CIA triada, razlike med tveganji, grožnjami itd.
-- 🛡️ Razumevanje, kaj je varnostni ukrep in v kakšnih oblikah se pojavlja.
-- 🌐 Razumevanje, kaj je "zero trust" in zakaj je to pomembno v sodobni kibernetski varnosti.
-- 🔑 Razumevanje ključnih konceptov in tem na področju identitete, omrežij, varnostnih operacij, infrastrukture in varnosti podatkov.
+- 🔐 Osnovni koncepti kibernetske varnosti, kot so trikotnik CIA, razlike med tveganji, grožnjami itd.
+- 🛡️ Razumevanje, kaj je varnostni ukrep in kakšne oblike ima.
+- 🌐 Razumevanje, kaj je ničelno zaupanje in zakaj je to pomembno v sodobni kibernetski varnosti.
+- 🔑 Razumevanje ključnih konceptov in tem v identiteti, omrežju, operacijah varnosti, infrastrukturi in varnosti podatkov.
 - 🔧 Primeri orodij, ki se uporabljajo za izvajanje varnostnih ukrepov.
 
 Kaj ta tečaj ne zajema 🙅‍♂️
 
 - 🚫 Kako uporabljati specifična varnostna orodja.
-- 🚫 Kako "hekati" ali izvajati ofenzivno varnost.
+- 🚫 Kako "hekirati" ali izvajati rdeče timsko/ofenzivno varnost.
 - 🚫 Učenje o specifičnih standardih skladnosti.
 
-[![Oglejte si video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.sl.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
+[![Watch the video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.sl.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Ko zaključite ta tečaj, lahko nadaljujete z nekaterimi moduli na platformi Microsoft Learn. Priporočamo, da nadaljujete z učenjem pri [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)  
+Ko zaključite ta tečaj, lahko nadaljujete z nekaterimi moduli Microsoft Learn. Priporočamo, da nadaljujete z učenjem z [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)  
 
-Na koncu lahko razmislite o opravljanju [izpita SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+Na koncu lahko razmislite o opravljanju [izpita SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)  
 
-> 💁 Če imate kakršne koli povratne informacije ali predloge glede tega tečaja in vsebine, ki jo pogrešate, bi jih z veseljem slišali!
+> 💁 Če imate kakršne koli povratne informacije ali predloge glede tega tečaja ali vsebine, ki jo pogrešamo, bi jih z veseljem slišali!
 
 ## Pregled modulov 📝  
-| **Številka modula** | **Ime modula**                          | **Obravnavani koncepti**             | **Cilji učenja**                                                                                               |
-|---------------------|-----------------------------------------|---------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **1.1**             | Osnovni varnostni koncepti              | [CIA triada](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Spoznajte zaupnost, razpoložljivost in celovitost. Prav tako avtentičnost, neovrgljivost in zasebnost.         |
-| **1.2**             | Osnovni varnostni koncepti              | [Pogoste kibernetske grožnje](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Spoznajte pogoste kibernetske grožnje, s katerimi se soočajo posamezniki in organizacije.                      |
-| **1.3**             | Osnovni varnostni koncepti              | [Razumevanje upravljanja tveganj](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Spoznajte ocenjevanje in razumevanje tveganj – vpliv/verjetnost in izvajanje ukrepov.                                                                                                               | |
-| **1.4**             | Osnovni varnostni koncepti              | [Varnostne prakse in dokumentacija](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Spoznajte razliko med politikami, postopki, standardi in predpisi/zakoni.                                      |
-| **1.5**             | Osnovni varnostni koncepti              | [Zero trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Spoznajte, kaj je "zero trust" in kako vpliva na arhitekturo? Kaj je obramba v globino?                         |
-| **1.6**             | Osnovni varnostni koncepti              | [Model deljene odgovornosti](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Kaj je model deljene odgovornosti in kako vpliva na kibernetsko varnost?                                       |
-| **1.7**             | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                       |                                                                                                                 |
-| **2.1**             | Osnove upravljanja identitete in dostopa | [Ključni koncepti IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Spoznajte načelo najmanjših privilegijev, ločevanje dolžnosti in kako IAM podpira "zero trust".                |
-| **2.2**             | Osnove upravljanja identitete in dostopa | [IAM arhitektura "zero trust"](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Spoznajte, kako je identiteta nova meja za sodobna IT okolja in katere grožnje zmanjšuje.                      |
-| **2.3**             | Osnove upravljanja identitete in dostopa | [Zmožnosti IAM](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Spoznajte zmožnosti in ukrepe IAM za zaščito identitet.                                                        |
-| **2.4**             | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                       |                                                                                                                 |
-| **3.1**             | Osnove omrežne varnosti                 | [Ključni koncepti omrežja](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Spoznajte koncepte omrežja (IP naslavljanje, številke vrat, šifriranje itd.).                                  |
-| **3.2**             | Osnove omrežne varnosti                 | [Omrežna arhitektura "zero trust"](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Spoznajte, kako omrežje prispeva k celoviti arhitekturi ZT in katere grožnje zmanjšuje.                         |
-| **3.3**             | Osnove omrežne varnosti                 | [Zmožnosti omrežne varnosti](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Spoznajte orodja za omrežno varnost – požarni zidovi, WAF, zaščita pred DDoS napadi itd.                        |
-| **3.4**             | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                       |                                                                                                                 |
-| **4.1**             | Osnove varnostnih operacij              | [Ključni koncepti SecOps](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Spoznajte, zakaj so varnostne operacije pomembne in kako se razlikujejo od običajnih IT operacijskih ekip.      |
-| **4.2**             | Osnove varnostnih operacij              | [SecOps arhitektura "zero trust"](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Spoznajte, kako SecOps prispeva k celoviti arhitekturi ZT in katere grožnje zmanjšuje.                          |
-| **4.3**             | Osnove varnostnih operacij              | [Zmožnosti SecOps](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Spoznajte orodja za SecOps – SIEM, XDR itd.                                                                     |
-| **4.4**             | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                       |                                                                                                                 |
-| **5.1**             | Osnove varnosti aplikacij               | [Ključni koncepti AppSec](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Spoznajte koncepte AppSec, kot so varnost pri načrtovanju, validacija vnosa itd.                                |
-| **5.2**           | Osnove varnosti aplikacij                | [Zmožnosti AppSec](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Spoznajte orodja za AppSec: orodja za varnost v cevovodih, skeniranje kode, skeniranje skrivnosti itd.                       |
-| **5.3**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **6.1**           | Osnove varnosti infrastrukture           | [Ključni koncepti varnosti infrastrukture](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Spoznajte utrjevanje sistemov, posodabljanje, higienske prakse varnosti, varnost kontejnerjev.                                  |
+| **Številka modula** | **Ime modula**                           | **Poučeni koncepti**                  | **Učni cilji**                                                                                          |
+|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| **1.1**           | Osnovni koncepti varnosti                   | [Trikotnik CIA](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Naučite se o zaupnosti, razpoložljivosti in celovitosti. Prav tako o avtentičnosti, neizpodbitnosti in zasebnosti. |
+| **1.2**           | Osnovni koncepti varnosti                   | [Pogoste grožnje kibernetske varnosti](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Naučite se o pogostih grožnjah kibernetske varnosti, s katerimi se soočajo posamezniki in organizacije.                             |
+| **1.3**           | Osnovni koncepti varnosti                   | [Razumevanje upravljanja tveganj](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Naučite se ocenjevanja in razumevanja tveganj – vpliv/verjetnost ter izvajanje ukrepov.                                                                                                               | |
+| **1.4**           | Osnovni koncepti varnosti                   | [Varnostne prakse in dokumentacija](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Naučite se razlik med politikami, postopki, standardi in predpisi/zakoni.                         |
+| **1.5**           | Osnovni koncepti varnosti                   | [Ničelno zaupanje](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Naučite se, kaj je ničelno zaupanje in kako vpliva na arhitekturo? Kaj je obramba v globino?                   |
+| **1.6**           | Osnovni koncepti varnosti                   | [Model deljene odgovornosti](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Kaj je model deljene odgovornosti in kako vpliva na kibernetsko varnost?                  |
+| **1.7**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **2.1**           | Osnove upravljanja identitete in dostopa | [Ključni koncepti IAM](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Naučite se o načelu najmanjših privilegijev, ločevanju dolžnosti, kako IAM podpira ničelno zaupanje.               |
+| **2.2**           | Osnove upravljanja identitete in dostopa | [IAM arhitektura ničelnega zaupanja](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Naučite se, kako identiteta postaja nova meja za sodobna IT okolja in grožnje, ki jih zmanjšuje.          |
+| **2.3**           | Osnove upravljanja identitete in dostopa | [Zmožnosti IAM](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Naučite se o zmožnostih in ukrepih IAM za zaščito identitet.                                                  |
+| **2.4**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **3.1**           | Osnove varnosti omrežja             | [Ključni koncepti omrežja](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Naučite se o konceptih omrežja (naslavljanje IP, številke vrat, šifriranje itd.)                                 |
+| **3.2**           | Osnove varnosti omrežja             | [Arhitektura ničelnega zaupanja v omrežju](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Naučite se, kako omrežje prispeva k celoviti arhitekturi ničelnega zaupanja in grožnje, ki jih zmanjšuje.                  |
+| **3.3**           | Osnove varnosti omrežja             | [Zmožnosti varnosti omrežja](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Naučite se o orodjih za varnost omrežja – požarni zidovi, WAF, zaščita pred DDoS napadi itd.                                    |
+| **3.4**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **4.1**           | Osnove operacij varnosti          | [Ključni koncepti SecOps](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Naučite se, zakaj so operacije varnosti pomembne in kako se razlikujejo od običajnih IT operacijskih ekip.                  |
+| **4.2**           | Osnove operacij varnosti          | [Arhitektura ničelnega zaupanja v SecOps](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Naučite se, kako SecOps prispeva k celoviti arhitekturi ničelnega zaupanja in grožnje, ki jih zmanjšuje.                      |
+| **4.3**           | Osnove operacij varnosti          | [Zmožnosti SecOps](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Naučite se o orodjih SecOps – SIEM, XDR itd.                                                                    |
+| **4.4**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.1**           | Osnove varnosti aplikacij         | [Ključni koncepti AppSec](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Naučite se o konceptih AppSec, kot so varnost pri oblikovanju, validacija vnosa itd.                                    |
+| **5.2**           | Osnove varnosti aplikacij                | [Zmožnosti AppSec](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Spoznajte orodja AppSec: orodja za varnost v cevovodu, skeniranje kode, skeniranje skrivnosti itd.               |
+| **5.3**           | [Kvizi ob koncu modula](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **6.1**           | Osnove varnosti infrastrukture           | [Ključni koncepti varnosti infrastrukture](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Spoznajte utrjevanje sistemov, nameščanje popravkov, varnostno higieno, varnost kontejnerjev.                   |
 | **6.2**           | Osnove varnosti infrastrukture           | [Zmožnosti varnosti infrastrukture](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Spoznajte orodja, ki lahko pomagajo pri varnosti infrastrukture, npr. CSPM, varnost kontejnerjev itd.            |
-| **6.3**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **7.1**           | Osnove varnosti podatkov                 | [Ključni koncepti varnosti podatkov](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Spoznajte klasifikacijo in hrambo podatkov ter zakaj sta pomembni za organizacijo.                     |
-| **7.2**           | Osnove varnosti podatkov                 | [Zmožnosti varnosti podatkov](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Spoznajte orodja za varnost podatkov – DLP, upravljanje notranjih tveganj, upravljanje podatkov itd.                          |
-| **7.3**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
-| **8.1**           | Osnove varnosti umetne inteligence       | [Ključni koncepti varnosti umetne inteligence](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Spoznajte razlike in podobnosti med tradicionalno varnostjo in varnostjo umetne inteligence.                 |
-| **8.2**           | Osnove varnosti umetne inteligence       | [Zmožnosti varnosti umetne inteligence](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Spoznajte orodja za varnost umetne inteligence in nadzore, ki jih je mogoče uporabiti za zaščito umetne inteligence.                         |
-| **8.3**           | Osnove varnosti umetne inteligence       | [Odgovorna umetna inteligenca](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Spoznajte, kaj je odgovorna umetna inteligenca in specifične nevarnosti umetne inteligence, na katere morajo biti strokovnjaki za varnost pozorni.                          |
-| **8.4**           | [Kviz ob koncu modula](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+| **6.3**           | [Kvizi ob koncu modula](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | Osnove varnosti podatkov                 | [Ključni koncepti varnosti podatkov](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Spoznajte klasifikacijo in hranjenje podatkov ter zakaj je to pomembno za organizacijo.                         |
+| **7.2**           | Osnove varnosti podatkov                 | [Zmožnosti varnosti podatkov](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Spoznajte orodja za varnost podatkov – DLP, upravljanje notranjih tveganj, upravljanje podatkov itd.             |
+| **7.3**           | [Kvizi ob koncu modula](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **8.1**           | Osnove varnosti umetne inteligence       | [Ključni koncepti varnosti umetne inteligence](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Spoznajte razlike in podobnosti med tradicionalno varnostjo in varnostjo umetne inteligence.                     |
+| **8.2**           | Osnove varnosti umetne inteligence       | [Zmožnosti varnosti umetne inteligence](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Spoznajte orodja za varnost umetne inteligence in nadzore, ki jih lahko uporabite za zaščito umetne inteligence. |
+| **8.3**           | Osnove varnosti umetne inteligence       | [Odgovorna umetna inteligenca](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Spoznajte, kaj je odgovorna umetna inteligenca in specifične škode, na katere morajo biti strokovnjaki za varnost pozorni. |
+| **8.4**           | [Kvizi ob koncu modula](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
 ## 🎒 Drugi tečaji 
 
 Naša ekipa pripravlja tudi druge tečaje! Oglejte si:
 
-- [Generativna umetna inteligenca za začetnike](https://aka.ms/genai-beginners)
-- [Generativna umetna inteligenca za začetnike .NET](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)
-- [Generativna umetna inteligenca z JavaScript](https://github.com/microsoft/generative-ai-with-javascript)
-- [Generativna umetna inteligenca z Javo](https://github.com/microsoft/Generative-AI-for-beginners-java)
-- [Umetna inteligenca za začetnike](https://aka.ms/ai-beginners)
-- [Podatkovna znanost za začetnike](https://aka.ms/datascience-beginners)
-- [Strojno učenje za začetnike](https://aka.ms/ml-beginners)
-- [Kibernetska varnost za začetnike](https://github.com/microsoft/Security-101) 
-- [Spletni razvoj za začetnike](https://aka.ms/webdev-beginners)
-- [IoT za začetnike](https://aka.ms/iot-beginners)
-- [Razvoj XR za začetnike](https://github.com/microsoft/xr-development-for-beginners)
-- [Obvladovanje GitHub Copilot za parno programiranje](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming)
-- [Obvladovanje GitHub Copilot za razvijalce C#/.NET](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers)
-- [Izberi svojo lastno Copilot pustolovščino](https://github.com/microsoft/CopilotAdventures)
+### Azure / Edge / MCP / Agentje
+[![AZD za začetnike](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Edge AI za začetnike](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![MCP za začetnike](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![AI agenti za začetnike](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Serija generativne umetne inteligence
+[![Generativna umetna inteligenca za začetnike](https://img.shields.io/badge/Generative%20AI%20for%20Beginners-8B5CF6?style=for-the-badge&labelColor=E5E7EB&color=8B5CF6)](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Generativna umetna inteligenca (.NET)](https://img.shields.io/badge/Generative%20AI%20(.NET)-9333EA?style=for-the-badge&labelColor=E5E7EB&color=9333EA)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet?WT.mc_id=academic-105485-koreyst)
+[![Generativna umetna inteligenca (Java)](https://img.shields.io/badge/Generative%20AI%20(Java)-C084FC?style=for-the-badge&labelColor=E5E7EB&color=C084FC)](https://github.com/microsoft/generative-ai-for-beginners-java?WT.mc_id=academic-105485-koreyst)
+[![Generativna umetna inteligenca (JavaScript)](https://img.shields.io/badge/Generative%20AI%20(JavaScript)-E879F9?style=for-the-badge&labelColor=E5E7EB&color=E879F9)](https://github.com/microsoft/generative-ai-with-javascript?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Osnovno učenje
+[![Strojno učenje za začetnike](https://img.shields.io/badge/ML%20for%20Beginners-22C55E?style=for-the-badge&labelColor=E5E7EB&color=22C55E)](https://aka.ms/ml-beginners?WT.mc_id=academic-105485-koreyst)
+[![Podatkovna znanost za začetnike](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
+[![Umetna inteligenca za začetnike](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
+[![Kibernetska varnost za začetnike](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
+[![Spletni razvoj za začetnike](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![IoT za začetnike](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
+[![XR razvoj za začetnike](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
+
+---
+
+### Serija Copilot
+[![Copilot za AI parno programiranje](https://img.shields.io/badge/Copilot%20for%20AI%20Paired%20Programming-FACC15?style=for-the-badge&labelColor=E5E7EB&color=FACC15)](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-105485-koreyst)
+[![Copilot za C#/.NET](https://img.shields.io/badge/Copilot%20for%20C%23/.NET-FBBF24?style=for-the-badge&labelColor=E5E7EB&color=FBBF24)](https://github.com/microsoft/mastering-github-copilot-for-dotnet-csharp-developers?WT.mc_id=academic-105485-koreyst)
+[![Copilot pustolovščina](https://img.shields.io/badge/Copilot%20Adventure-FDE68A?style=for-the-badge&labelColor=E5E7EB&color=FDE68A)](https://github.com/microsoft/CopilotAdventures?WT.mc_id=academic-105485-koreyst)
 
 ## Pomoč
 
@@ -123,4 +140,4 @@ Naša ekipa pripravlja tudi druge tečaje! Oglejte si:
 ---
 
 **Omejitev odgovornosti**:  
-Ta dokument je bil preveden z uporabo storitve AI za prevajanje [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas prosimo, da upoštevate, da lahko avtomatizirani prevodi vsebujejo napake ali netočnosti. Izvirni dokument v njegovem izvirnem jeziku je treba obravnavati kot avtoritativni vir. Za ključne informacije priporočamo profesionalni človeški prevod. Ne odgovarjamo za morebitna nesporazumevanja ali napačne razlage, ki izhajajo iz uporabe tega prevoda.
+Ta dokument je bil preveden z uporabo storitve AI za prevajanje [Co-op Translator](https://github.com/Azure/co-op-translator). Čeprav si prizadevamo za natančnost, vas prosimo, da upoštevate, da lahko avtomatizirani prevodi vsebujejo napake ali netočnosti. Izvirni dokument v njegovem maternem jeziku naj se šteje za avtoritativni vir. Za ključne informacije priporočamo profesionalni človeški prevod. Ne odgovarjamo za morebitna nesporazumevanja ali napačne razlage, ki izhajajo iz uporabe tega prevoda.
