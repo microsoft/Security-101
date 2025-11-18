@@ -1,41 +1,41 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "fc3d47b5af0cc4fc954ae5d2ea2f7811",
-  "translation_date": "2025-10-24T09:09:15+00:00",
+  "original_hash": "79a7e63fa60f649eb3560e1cd7246272",
+  "translation_date": "2025-11-18T17:32:15+00:00",
   "source_file": "README.md",
   "language_code": "no"
 }
 -->
-[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)  
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)  
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)  
-[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)  
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)  
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)  
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
 
 ### 🌐 Støtte for flere språk
 
-#### Støttet via GitHub Action (Automatisk og alltid oppdatert)
+#### Støttet via GitHub Action (Automatisk & Alltid Oppdatert)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arabisk](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarsk](../bg/README.md) | [Burmesisk (Myanmar)](../my/README.md) | [Kinesisk (Forenklet)](../zh/README.md) | [Kinesisk (Tradisjonell, Hong Kong)](../hk/README.md) | [Kinesisk (Tradisjonell, Macau)](../mo/README.md) | [Kinesisk (Tradisjonell, Taiwan)](../tw/README.md) | [Kroatisk](../hr/README.md) | [Tsjekkisk](../cs/README.md) | [Dansk](../da/README.md) | [Nederlandsk](../nl/README.md) | [Estisk](../et/README.md) | [Finsk](../fi/README.md) | [Fransk](../fr/README.md) | [Tysk](../de/README.md) | [Gresk](../el/README.md) | [Hebraisk](../he/README.md) | [Hindi](../hi/README.md) | [Ungarsk](../hu/README.md) | [Indonesisk](../id/README.md) | [Italiensk](../it/README.md) | [Japansk](../ja/README.md) | [Koreansk](../ko/README.md) | [Litauisk](../lt/README.md) | [Malayisk](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Norsk](./README.md) | [Persisk (Farsi)](../fa/README.md) | [Polsk](../pl/README.md) | [Portugisisk (Brasil)](../br/README.md) | [Portugisisk (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumensk](../ro/README.md) | [Russisk](../ru/README.md) | [Serbisk (Kyrillisk)](../sr/README.md) | [Slovakisk](../sk/README.md) | [Slovensk](../sl/README.md) | [Spansk](../es/README.md) | [Swahili](../sw/README.md) | [Svensk](../sv/README.md) | [Tagalog (Filippinsk)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Tyrkisk](../tr/README.md) | [Ukrainsk](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamesisk](../vi/README.md)  
+[Arabisk](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgarsk](../bg/README.md) | [Burmesisk (Myanmar)](../my/README.md) | [Kinesisk (Forenklet)](../zh/README.md) | [Kinesisk (Tradisjonell, Hong Kong)](../hk/README.md) | [Kinesisk (Tradisjonell, Macau)](../mo/README.md) | [Kinesisk (Tradisjonell, Taiwan)](../tw/README.md) | [Kroatisk](../hr/README.md) | [Tsjekkisk](../cs/README.md) | [Dansk](../da/README.md) | [Nederlandsk](../nl/README.md) | [Estisk](../et/README.md) | [Finsk](../fi/README.md) | [Fransk](../fr/README.md) | [Tysk](../de/README.md) | [Gresk](../el/README.md) | [Hebraisk](../he/README.md) | [Hindi](../hi/README.md) | [Ungarsk](../hu/README.md) | [Indonesisk](../id/README.md) | [Italiensk](../it/README.md) | [Japansk](../ja/README.md) | [Koreansk](../ko/README.md) | [Litauisk](../lt/README.md) | [Malayisk](../ms/README.md) | [Marathi](../mr/README.md) | [Nepalsk](../ne/README.md) | [Nigeriansk Pidgin](../pcm/README.md) | [Norsk](./README.md) | [Persisk (Farsi)](../fa/README.md) | [Polsk](../pl/README.md) | [Portugisisk (Brasil)](../br/README.md) | [Portugisisk (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumensk](../ro/README.md) | [Russisk](../ru/README.md) | [Serbisk (Kyrillisk)](../sr/README.md) | [Slovakisk](../sk/README.md) | [Slovensk](../sl/README.md) | [Spansk](../es/README.md) | [Swahili](../sw/README.md) | [Svensk](../sv/README.md) | [Tagalog (Filippinsk)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Tyrkisk](../tr/README.md) | [Ukrainsk](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnamesisk](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
 **Hvis du ønsker å få støtte for flere oversettelsesspråk, finner du en liste [her](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
-#### Bli med i vårt fellesskap  
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)  
+#### Bli med i vårt fellesskap 
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
 # 🚀 Cybersikkerhet for nybegynnere – et pensum
 
-I denne raskt skiftende tiden med økende bruk av AI-teknologi, er det enda viktigere å forstå hvordan man sikrer IT-systemer. Dette kurset er designet for å lære deg grunnleggende konsepter innen cybersikkerhet for å kickstarte din læring innen sikkerhet. Det er leverandøruavhengig og delt inn i små leksjoner som tar omtrent 30-60 minutter å fullføre. Hver leksjon har en liten quiz og lenker til videre lesing hvis du ønsker å fordype deg i emnet.
+I denne raskt skiftende tiden med AI-teknologi er det enda viktigere å forstå hvordan man sikrer IT-systemer. Dette kurset er laget for å lære deg grunnleggende konsepter innen cybersikkerhet og gi deg en god start på din sikkerhetslæring. Det er leverandøruavhengig og delt opp i små leksjoner som tar omtrent 30-60 minutter å fullføre. Hver leksjon har en liten quiz og lenker til videre lesing hvis du ønsker å fordype deg i emnet.
 
 ![Cybersikkerhet for nybegynnere](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.no.jpg)
 
 Hva dette kurset dekker 📚
 
-- 🔐 Grunnleggende konsepter innen cybersikkerhet som CIA-triaden, forskjellene mellom risikoer, trusler osv.
+- 🔐 Grunnleggende konsepter innen cybersikkerhet som CIA-triaden, forskjellene mellom risiko, trusler osv.
 - 🛡️ Forstå hva en sikkerhetskontroll er og hvilke former de kan ta.
 - 🌐 Forstå hva nulltillit (zero trust) er og hvorfor dette er viktig i moderne cybersikkerhet.
 - 🔑 Forstå nøkkelkonsepter og temaer innen identitet, nettverk, sikkerhetsoperasjoner, infrastruktur og datasikkerhet.
@@ -49,47 +49,47 @@ Hva dette kurset ikke dekker 🙅‍♂️
 
 [![Se videoen](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.no.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Når du har fullført dette kurset, kan du gå videre til noen av våre Microsoft Learn-moduler. Vi anbefaler at du fortsetter læringen med [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung)  
+Når du har fullført dette kurset, kan du gå videre til noen av våre Microsoft Learn-moduler. Vi anbefaler at du fortsetter læringen med [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
 
-Til slutt kan du vurdere å ta [Eksamen SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)  
+Til slutt kan du vurdere å ta [Eksamen SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
 
 > 💁 Hvis du har tilbakemeldinger eller forslag til dette kurset og innhold vi mangler, vil vi gjerne høre fra deg!
 
-## Moduloversikt 📝  
+## Moduloversikt 📝 
 | **Modulnummer** | **Modulnavn**                           | **Konsepter som læres**                  | **Læringsmål**                                                                                          |
 |-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **1.1**           | Grunnleggende sikkerhetskonsepter                   | [CIA-triaden](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Lær om konfidensialitet, tilgjengelighet og integritet. Også autentisitet, ikke-benekting og personvern. |
+| **1.1**           | Grunnleggende sikkerhetskonsepter                   | [CIA-triaden](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Lær om konfidensialitet, tilgjengelighet og integritet. Også autentisitet, ikke-benektelse og personvern. |
 | **1.2**           | Grunnleggende sikkerhetskonsepter                   | [Vanlige cybersikkerhetstrusler](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Lær om vanlige cybersikkerhetstrusler som påvirker enkeltpersoner og organisasjoner.                             |
 | **1.3**           | Grunnleggende sikkerhetskonsepter                   | [Forstå risikostyring](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Lær om å vurdere og forstå risiko – påvirkning/sannsynlighet og implementering av kontroller.                                                                                                               | |
 | **1.4**           | Grunnleggende sikkerhetskonsepter                   | [Sikkerhetspraksis og dokumentasjon](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Lær om forskjellen mellom policyer, prosedyrer, standarder og reguleringer/lovgivning.                         |
-| **1.5**           | Grunnleggende sikkerhetskonsepter                   | [Nulltillit](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Lær om hva nulltillit er og hvordan det påvirker arkitektur. Hva er dybdeforsvar?                   |
+| **1.5**           | Grunnleggende sikkerhetskonsepter                   | [Nulltillit](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Lær om hva nulltillit er og hvordan det påvirker arkitektur. Hva er forsvar i dybden?                   |
 | **1.6**           | Grunnleggende sikkerhetskonsepter                   | [Modellen for delt ansvar](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | Hva er modellen for delt ansvar og hvordan påvirker den cybersikkerhet?                  |
 | **1.7**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **2.1**           | Grunnleggende identitets- og tilgangsstyring | [IAM nøkkelkonsepter](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Lær om prinsippet om minst privilegium, oppdeling av oppgaver, hvordan IAM støtter nulltillit.               |
-| **2.2**           | Grunnleggende identitets- og tilgangsstyring | [IAM nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Lær om hvordan identitet er den nye perimeteren for moderne IT-miljøer og truslene det reduserer.          |
+| **2.2**           | Grunnleggende identitets- og tilgangsstyring | [IAM nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Lær om hvordan identitet er den nye perimeteren for moderne IT-miljøer og truslene det motvirker.          |
 | **2.3**           | Grunnleggende identitets- og tilgangsstyring | [IAM kapabiliteter](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Lær om IAM kapabiliteter og kontroller for å sikre identiteter                                                  |
 | **2.4**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **3.1**           | Grunnleggende nettverkssikkerhet             | [Nettverksnøkkelkonsepter](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Lær om nettverkskonsepter (IP-adressering, portnumre, kryptering, etc.)                                 |
-| **3.2**           | Grunnleggende nettverkssikkerhet             | [Nettverks nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Lær om hvordan nettverk bidrar til en ende-til-ende nulltillitsarkitektur og truslene det reduserer.                  |
+| **3.2**           | Grunnleggende nettverkssikkerhet             | [Nettverks nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Lær om hvordan nettverk bidrar til en ende-til-ende nulltillitsarkitektur og truslene det motvirker.                  |
 | **3.3**           | Grunnleggende nettverkssikkerhet             | [Nettverkssikkerhetskapabiliteter](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Lær om nettverkssikkerhetsverktøy – brannmurer, WAF, DDoS-beskyttelse, etc.                                    |
 | **3.4**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **4.1**           | Grunnleggende sikkerhetsoperasjoner          | [SecOps nøkkelkonsepter](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Lær om hvorfor sikkerhetsoperasjoner er viktige og hvordan det skiller seg fra vanlige IT-operasjonsteam.                  |
-| **4.2**           | Grunnleggende sikkerhetsoperasjoner          | [SecOps nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Lær om hvordan SecOps bidrar til en ende-til-ende nulltillitsarkitektur og truslene det reduserer.                      |
+| **4.2**           | Grunnleggende sikkerhetsoperasjoner          | [SecOps nulltillitsarkitektur](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Lær om hvordan SecOps bidrar til en ende-til-ende nulltillitsarkitektur og truslene det motvirker.                      |
 | **4.3**           | Grunnleggende sikkerhetsoperasjoner          | [SecOps kapabiliteter](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Lær om SecOps verktøy – SIEM, XDR, etc.                                                                    |
 | **4.4**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **5.1**           | Grunnleggende applikasjonssikkerhet         | [AppSec nøkkelkonsepter](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Lær om AppSec-konsepter som sikkerhet ved design, validering av input, etc.                                    |
 | **5.2**           | Grunnleggende om applikasjonssikkerhet    | [AppSec-funksjoner](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Lær om AppSec-verktøy: sikkerhetsverktøy for pipeline, kodeskanning, hemmelighetsskanning, osv.                 |
-| **5.3**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **5.3**           | [Quiz på slutten av modulen](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **6.1**           | Grunnleggende om infrastruktursikkerhet   | [Nøkkelkonsepter for infrastruktursikkerhet](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Lær om systemforsterkning, oppdateringer, sikkerhetshygiene, containersikkerhet.                                |
 | **6.2**           | Grunnleggende om infrastruktursikkerhet   | [Funksjoner for infrastruktursikkerhet](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Lær om verktøy som kan hjelpe med infrastruktursikkerhet, f.eks. CSPM, containersikkerhet, osv.                 |
-| **6.3**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **7.1**           | Grunnleggende om datasikkerhet            | [Nøkkelkonsepter for datasikkerhet](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Lær om dataklassifisering og lagring, og hvorfor dette er viktig for en organisasjon.                           |
-| **7.2**           | Grunnleggende om datasikkerhet            | [Funksjoner for datasikkerhet](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Lær om datasikkerhetsverktøy – DLP, risikostyring internt, datastyring, osv.                                    |
-| **7.3**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
+| **6.3**           | [Quiz på slutten av modulen](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
+| **7.1**           | Grunnleggende om datasikkerhet            | [Nøkkelkonsepter for datasikkerhet](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Lær om dataklassifisering og oppbevaring, og hvorfor dette er viktig for en organisasjon.                       |
+| **7.2**           | Grunnleggende om datasikkerhet            | [Funksjoner for datasikkerhet](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Lær om datasikkerhetsverktøy – DLP, intern risikostyring, datastyring, osv.                                     |
+| **7.3**           | [Quiz på slutten av modulen](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
 | **8.1**           | Grunnleggende om AI-sikkerhet             | [Nøkkelkonsepter for AI-sikkerhet](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Lær om forskjeller og likheter mellom tradisjonell sikkerhet og AI-sikkerhet.                                   |
 | **8.2**           | Grunnleggende om AI-sikkerhet             | [Funksjoner for AI-sikkerhet](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Lær om AI-sikkerhetsverktøy og kontrollene som kan brukes for å sikre AI.                                       |
 | **8.3**           | Grunnleggende om AI-sikkerhet             | [Ansvarlig AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Lær om hva ansvarlig AI er og AI-spesifikke skader som sikkerhetsprofesjonelle må være oppmerksomme på.         |
-| **8.4**           | [Sluttquiz for modul](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
+| **8.4**           | [Quiz på slutten av modulen](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
 
 ## 🎒 Andre kurs 
 
@@ -129,15 +129,17 @@ Vårt team produserer andre kurs! Sjekk ut:
 
 ## Få hjelp
 
-Hvis du står fast eller har spørsmål om å bygge AI-apper, bli med:
+Hvis du står fast eller har spørsmål om å bygge AI-apper, kan du bli med andre elever og erfarne utviklere i diskusjoner om MCP. Det er et støttende fellesskap hvor spørsmål er velkomne og kunnskap deles fritt.
 
-[![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
 Hvis du har produktfeedback eller opplever feil under bygging, besøk:
 
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Ansvarsfraskrivelse**:  
-Dette dokumentet er oversatt ved hjelp av AI-oversettelsestjenesten [Co-op Translator](https://github.com/Azure/co-op-translator). Selv om vi streber etter nøyaktighet, vær oppmerksom på at automatiske oversettelser kan inneholde feil eller unøyaktigheter. Det originale dokumentet på sitt opprinnelige språk bør anses som den autoritative kilden. For kritisk informasjon anbefales profesjonell menneskelig oversettelse. Vi er ikke ansvarlige for misforståelser eller feiltolkninger som oppstår ved bruk av denne oversettelsen.
+Dette dokumentet er oversatt ved hjelp av AI-oversettelsestjenesten [Co-op Translator](https://github.com/Azure/co-op-translator). Selv om vi streber etter nøyaktighet, vær oppmerksom på at automatiske oversettelser kan inneholde feil eller unøyaktigheter. Det originale dokumentet på dets opprinnelige språk bør anses som den autoritative kilden. For kritisk informasjon anbefales profesjonell menneskelig oversettelse. Vi er ikke ansvarlige for eventuelle misforståelser eller feiltolkninger som oppstår ved bruk av denne oversettelsen.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
