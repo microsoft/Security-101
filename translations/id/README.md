@@ -1,47 +1,47 @@
 <!--
 CO_OP_TRANSLATOR_METADATA:
 {
-  "original_hash": "fc3d47b5af0cc4fc954ae5d2ea2f7811",
-  "translation_date": "2025-10-24T09:12:31+00:00",
+  "original_hash": "79a7e63fa60f649eb3560e1cd7246272",
+  "translation_date": "2025-11-18T17:37:32+00:00",
   "source_file": "README.md",
   "language_code": "id"
 }
 -->
-[![Lisensi GitHub](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
-[![Masalah atau Permintaan Pull GitHub](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
-[![Masalah atau Permintaan Pull GitHub](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
-[![Bintang Repo GitHub](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
-[![Pengamat GitHub](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
-[![Fork GitHub](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
+[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
+[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
 
 ### 🌐 Dukungan Multi-Bahasa
 
 #### Didukung melalui GitHub Action (Otomatis & Selalu Terbaru)
 
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE START -->
-[Arab](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgaria](../bg/README.md) | [Burma (Myanmar)](../my/README.md) | [Cina (Sederhana)](../zh/README.md) | [Cina (Tradisional, Hong Kong)](../hk/README.md) | [Cina (Tradisional, Makau)](../mo/README.md) | [Cina (Tradisional, Taiwan)](../tw/README.md) | [Kroasia](../hr/README.md) | [Ceko](../cs/README.md) | [Denmark](../da/README.md) | [Belanda](../nl/README.md) | [Estonia](../et/README.md) | [Finlandia](../fi/README.md) | [Prancis](../fr/README.md) | [Jerman](../de/README.md) | [Yunani](../el/README.md) | [Ibrani](../he/README.md) | [Hindi](../hi/README.md) | [Hungaria](../hu/README.md) | [Indonesia](./README.md) | [Italia](../it/README.md) | [Jepang](../ja/README.md) | [Korea](../ko/README.md) | [Lituania](../lt/README.md) | [Melayu](../ms/README.md) | [Marathi](../mr/README.md) | [Nepal](../ne/README.md) | [Norwegia](../no/README.md) | [Persia (Farsi)](../fa/README.md) | [Polandia](../pl/README.md) | [Portugis (Brasil)](../br/README.md) | [Portugis (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumania](../ro/README.md) | [Rusia](../ru/README.md) | [Serbia (Kiril)](../sr/README.md) | [Slovakia](../sk/README.md) | [Slovenia](../sl/README.md) | [Spanyol](../es/README.md) | [Swahili](../sw/README.md) | [Swedia](../sv/README.md) | [Tagalog (Filipina)](../tl/README.md) | [Tamil](../ta/README.md) | [Thai](../th/README.md) | [Turki](../tr/README.md) | [Ukraina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnam](../vi/README.md)
+[Arab](../ar/README.md) | [Bengali](../bn/README.md) | [Bulgaria](../bg/README.md) | [Burma (Myanmar)](../my/README.md) | [Tionghoa (Sederhana)](../zh/README.md) | [Tionghoa (Tradisional, Hong Kong)](../hk/README.md) | [Tionghoa (Tradisional, Makau)](../mo/README.md) | [Tionghoa (Tradisional, Taiwan)](../tw/README.md) | [Kroasia](../hr/README.md) | [Ceko](../cs/README.md) | [Denmark](../da/README.md) | [Belanda](../nl/README.md) | [Estonia](../et/README.md) | [Finlandia](../fi/README.md) | [Prancis](../fr/README.md) | [Jerman](../de/README.md) | [Yunani](../el/README.md) | [Ibrani](../he/README.md) | [Hindi](../hi/README.md) | [Hungaria](../hu/README.md) | [Indonesia](./README.md) | [Italia](../it/README.md) | [Jepang](../ja/README.md) | [Korea](../ko/README.md) | [Lituania](../lt/README.md) | [Melayu](../ms/README.md) | [Marathi](../mr/README.md) | [Nepali](../ne/README.md) | [Pidgin Nigeria](../pcm/README.md) | [Norwegia](../no/README.md) | [Persia (Farsi)](../fa/README.md) | [Polandia](../pl/README.md) | [Portugis (Brasil)](../br/README.md) | [Portugis (Portugal)](../pt/README.md) | [Punjabi (Gurmukhi)](../pa/README.md) | [Rumania](../ro/README.md) | [Rusia](../ru/README.md) | [Serbia (Kiril)](../sr/README.md) | [Slovakia](../sk/README.md) | [Slovenia](../sl/README.md) | [Spanyol](../es/README.md) | [Swahili](../sw/README.md) | [Swedia](../sv/README.md) | [Tagalog (Filipina)](../tl/README.md) | [Tamil](../ta/README.md) | [Thailand](../th/README.md) | [Turki](../tr/README.md) | [Ukraina](../uk/README.md) | [Urdu](../ur/README.md) | [Vietnam](../vi/README.md)
 <!-- CO-OP TRANSLATOR LANGUAGES TABLE END -->
 
-**Jika Anda ingin mendukung bahasa tambahan, daftar bahasa yang didukung tersedia [di sini](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
+**Jika Anda ingin menambahkan bahasa terjemahan lainnya, daftar bahasa yang didukung tersedia [di sini](https://github.com/Azure/co-op-translator/blob/main/getting_started/supported-languages.md)**
 
 #### Bergabunglah dengan Komunitas Kami 
-[![Azure AI Discord](https://dcbadge.limes.pink/api/server/kzRShWzttr)](https://discord.gg/kzRShWzttr)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
-# 🚀 Keamanan Siber untuk Pemula – Kurikulum
+# 🚀 Keamanan Siber untuk Pemula – sebuah kurikulum
 
-Di era adopsi teknologi AI yang terus berubah ini, semakin penting untuk memahami cara mengamankan sistem TI. Kursus ini dirancang untuk mengajarkan konsep dasar keamanan siber guna memulai pembelajaran Anda tentang keamanan. Kursus ini tidak bergantung pada vendor tertentu dan dibagi menjadi pelajaran-pelajaran kecil yang masing-masing memakan waktu sekitar 30-60 menit untuk diselesaikan. Setiap pelajaran dilengkapi dengan kuis singkat dan tautan untuk bacaan lebih lanjut jika Anda ingin mendalami topik tersebut.
+Di era adopsi teknologi AI yang terus berubah ini, semakin penting untuk memahami cara mengamankan sistem TI. Kursus ini dirancang untuk mengajarkan Anda konsep dasar keamanan siber untuk memulai pembelajaran keamanan Anda. Kursus ini tidak bergantung pada vendor tertentu dan dibagi menjadi pelajaran-pelajaran kecil yang dapat diselesaikan dalam waktu sekitar 30-60 menit. Setiap pelajaran memiliki kuis kecil dan tautan untuk bacaan lebih lanjut jika Anda ingin mendalami topik tersebut.
 
-![Keamanan Siber untuk Pemula](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.id.jpg)
+![Cybersecurity for Beginners](../../translated_images/banner.cc5b05d7e5deed065123ba68678b48cbbfe411cb264c09cec64f58eda064a28a.id.jpg)
 
-Apa yang akan dipelajari dalam kursus ini 📚
+Apa yang dibahas dalam kursus ini 📚
 
 - 🔐 Konsep dasar keamanan siber seperti triad CIA, perbedaan antara risiko, ancaman, dll.
-- 🛡️ Memahami apa itu kontrol keamanan dan bentuk-bentuknya.
+- 🛡️ Memahami apa itu kontrol keamanan dan bentuknya.
 - 🌐 Memahami apa itu zero trust dan mengapa ini penting dalam keamanan siber modern.
 - 🔑 Memahami konsep dan tema utama di bidang identitas, jaringan, operasi keamanan, infrastruktur, dan keamanan data.
 - 🔧 Memberikan beberapa contoh alat yang digunakan untuk menerapkan kontrol keamanan.
 
-Apa yang tidak dicakup oleh kursus ini 🙅‍♂️
+Apa yang tidak dibahas dalam kursus ini 🙅‍♂️
 
 - 🚫 Cara menggunakan alat keamanan tertentu.
 - 🚫 Cara "meretas" atau melakukan red teaming/offensive security.
@@ -49,16 +49,16 @@ Apa yang tidak dicakup oleh kursus ini 🙅‍♂️
 
 [![Tonton video](../../translated_images/intro_placeholder.f42382df518f233a1ea3cb1c82ae8f92732bc3ac4ac2b3138cb561d24ca91df5.id.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-Setelah menyelesaikan kursus ini, Anda dapat melanjutkan ke beberapa modul Microsoft Learn kami. Kami merekomendasikan Anda untuk melanjutkan pembelajaran dengan [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
+Setelah Anda menyelesaikan kursus ini, Anda dapat melanjutkan ke beberapa modul Microsoft Learn kami. Kami merekomendasikan Anda melanjutkan pembelajaran dengan [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
 
 Pada akhirnya, Anda dapat mempertimbangkan untuk mengikuti [Ujian SC-900: Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
 
-> 💁 Jika Anda memiliki masukan atau saran tentang kursus ini dan konten yang mungkin kurang, kami sangat ingin mendengar dari Anda!
+> 💁 Jika Anda memiliki masukan atau saran tentang kursus ini dan konten yang menurut Anda kurang, kami ingin mendengar dari Anda!
 
 ## Ikhtisar Modul 📝 
 | **Nomor Modul** | **Nama Modul**                           | **Konsep yang Diajarkan**                  | **Tujuan Pembelajaran**                                                                                          |
 |-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **1.1**           | Konsep dasar keamanan                   | [Triad CIA](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Pelajari tentang kerahasiaan, ketersediaan, dan integritas. Juga autentisitas, non-repudiasi, dan privasi. |
+| **1.1**           | Konsep dasar keamanan                   | [Triad CIA](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Pelajari tentang kerahasiaan, ketersediaan, dan integritas. Juga autentisitas, nonrepudiation, dan privasi. |
 | **1.2**           | Konsep dasar keamanan                   | [Ancaman keamanan siber umum](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Pelajari tentang ancaman keamanan siber umum yang dihadapi individu dan organisasi.                             |
 | **1.3**           | Konsep dasar keamanan                   | [Memahami manajemen risiko](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Pelajari tentang menilai dan memahami risiko – dampak/kemungkinan dan menerapkan kontrol.                                                                                                               | |
 | **1.4**           | Konsep dasar keamanan                   | [Praktik dan dokumentasi keamanan](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Pelajari tentang perbedaan antara kebijakan, prosedur, standar, dan regulasi/hukum.                         |
@@ -70,11 +70,11 @@ Pada akhirnya, Anda dapat mempertimbangkan untuk mengikuti [Ujian SC-900: Micros
 | **2.3**           | Dasar-dasar manajemen identitas & akses | [Kemampuan IAM](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Pelajari tentang kemampuan dan kontrol IAM untuk mengamankan identitas                                                  |
 | **2.4**           | [Kuis akhir modul](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **3.1**           | Dasar-dasar keamanan jaringan             | [Konsep utama jaringan](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Pelajari tentang konsep jaringan (alamat IP, nomor port, enkripsi, dll.)                                 |
-| **3.2**           | Dasar-dasar keamanan jaringan             | [Arsitektur zero trust jaringan](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Pelajari tentang bagaimana jaringan berkontribusi pada arsitektur ZT end-to-end dan ancaman yang diatasi.                  |
+| **3.2**           | Dasar-dasar keamanan jaringan             | [Arsitektur zero trust jaringan](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Pelajari tentang bagaimana jaringan berkontribusi pada arsitektur ZT secara menyeluruh dan ancaman yang diatasi.                  |
 | **3.3**           | Dasar-dasar keamanan jaringan             | [Kemampuan keamanan jaringan](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Pelajari tentang alat keamanan jaringan – firewall, WAF, perlindungan DDoS, dll.                                    |
 | **3.4**           | [Kuis akhir modul](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **4.1**           | Dasar-dasar operasi keamanan          | [Konsep utama SecOps](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Pelajari tentang mengapa operasi keamanan itu penting dan bagaimana perbedaannya dengan tim operasi TI biasa.                  |
-| **4.2**           | Dasar-dasar operasi keamanan          | [Arsitektur zero trust SecOps](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Pelajari tentang bagaimana SecOps berkontribusi pada arsitektur ZT end-to-end dan ancaman yang diatasi.                      |
+| **4.1**           | Dasar-dasar operasi keamanan          | [Konsep utama SecOps](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Pelajari tentang mengapa operasi keamanan penting dan bagaimana perbedaannya dari tim operasi TI biasa.                  |
+| **4.2**           | Dasar-dasar operasi keamanan          | [Arsitektur zero trust SecOps](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Pelajari tentang bagaimana SecOps berkontribusi pada arsitektur ZT secara menyeluruh dan ancaman yang diatasi.                      |
 | **4.3**           | Dasar-dasar operasi keamanan          | [Kemampuan SecOps](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Pelajari tentang alat SecOps – SIEM, XDR, dll.                                                                    |
 | **4.4**           | [Kuis akhir modul](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
 | **5.1**           | Dasar-dasar keamanan aplikasi         | [Konsep utama AppSec](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Pelajari tentang konsep AppSec seperti desain yang aman, validasi input, dll.                                    |
@@ -93,14 +93,14 @@ Pada akhirnya, Anda dapat mempertimbangkan untuk mengikuti [Ujian SC-900: Micros
 
 ## 🎒 Kursus Lainnya 
 
-Tim kami juga membuat kursus lainnya! Lihat:
+Tim kami juga membuat kursus lainnya! Lihat di bawah:
 
 <!-- CO-OP TRANSLATOR OTHER COURSES START -->
 ### Azure / Edge / MCP / Agen
 [![AZD untuk Pemula](https://img.shields.io/badge/AZD%20for%20Beginners-0078D4?style=for-the-badge&labelColor=E5E7EB&color=0078D4)](https://github.com/microsoft/AZD-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![Edge AI untuk Pemula](https://img.shields.io/badge/Edge%20AI%20for%20Beginners-00B8E4?style=for-the-badge&labelColor=E5E7EB&color=00B8E4)](https://github.com/microsoft/edgeai-for-beginners?WT.mc_id=academic-105485-koreyst)
 [![MCP untuk Pemula](https://img.shields.io/badge/MCP%20for%20Beginners-009688?style=for-the-badge&labelColor=E5E7EB&color=009688)](https://github.com/microsoft/mcp-for-beginners?WT.mc_id=academic-105485-koreyst)
-[![AI Agen untuk Pemula](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
+[![Agen AI untuk Pemula](https://img.shields.io/badge/AI%20Agents%20for%20Beginners-00C49A?style=for-the-badge&labelColor=E5E7EB&color=00C49A)](https://github.com/microsoft/ai-agents-for-beginners?WT.mc_id=academic-105485-koreyst)
 
 ---
  
@@ -117,7 +117,7 @@ Tim kami juga membuat kursus lainnya! Lihat:
 [![Data Science untuk Pemula](https://img.shields.io/badge/Data%20Science%20for%20Beginners-84CC16?style=for-the-badge&labelColor=E5E7EB&color=84CC16)](https://aka.ms/datascience-beginners?WT.mc_id=academic-105485-koreyst)
 [![AI untuk Pemula](https://img.shields.io/badge/AI%20for%20Beginners-A3E635?style=for-the-badge&labelColor=E5E7EB&color=A3E635)](https://aka.ms/ai-beginners?WT.mc_id=academic-105485-koreyst)
 [![Keamanan Siber untuk Pemula](https://img.shields.io/badge/Cybersecurity%20for%20Beginners-F97316?style=for-the-badge&labelColor=E5E7EB&color=F97316)](https://github.com/microsoft/Security-101?WT.mc_id=academic-96948-sayoung)
-[![Web Dev untuk Pemula](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
+[![Pengembangan Web untuk Pemula](https://img.shields.io/badge/Web%20Dev%20for%20Beginners-EC4899?style=for-the-badge&labelColor=E5E7EB&color=EC4899)](https://aka.ms/webdev-beginners?WT.mc_id=academic-105485-koreyst)
 [![IoT untuk Pemula](https://img.shields.io/badge/IoT%20for%20Beginners-14B8A6?style=for-the-badge&labelColor=E5E7EB&color=14B8A6)](https://aka.ms/iot-beginners?WT.mc_id=academic-105485-koreyst)
 [![Pengembangan XR untuk Pemula](https://img.shields.io/badge/XR%20Development%20for%20Beginners-38BDF8?style=for-the-badge&labelColor=E5E7EB&color=38BDF8)](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-105485-koreyst)
 
@@ -131,15 +131,17 @@ Tim kami juga membuat kursus lainnya! Lihat:
 
 ## Mendapatkan Bantuan
 
-Jika Anda mengalami kesulitan atau memiliki pertanyaan tentang membangun aplikasi AI, bergabunglah:
+Jika Anda mengalami kesulitan atau memiliki pertanyaan tentang membangun aplikasi AI, bergabunglah dengan sesama pelajar dan pengembang berpengalaman dalam diskusi tentang MCP. Ini adalah komunitas yang mendukung di mana pertanyaan diterima dan pengetahuan dibagikan secara bebas.
 
-[![Discord Azure AI Foundry](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
+[![Microsoft Foundry Discord](https://dcbadge.limes.pink/api/server/nTYy5BXMWG)](https://discord.gg/nTYy5BXMWG)
 
 Jika Anda memiliki masukan produk atau menemukan kesalahan saat membangun, kunjungi:
 
-[![Forum Pengembang Azure AI Foundry](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Foundry Developer Forum](https://img.shields.io/badge/GitHub-Microsoft_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
 
 ---
 
+<!-- CO-OP TRANSLATOR DISCLAIMER START -->
 **Penafian**:  
-Dokumen ini telah diterjemahkan menggunakan layanan penerjemahan AI [Co-op Translator](https://github.com/Azure/co-op-translator). Meskipun kami berupaya untuk memberikan hasil yang akurat, harap diketahui bahwa terjemahan otomatis mungkin mengandung kesalahan atau ketidakakuratan. Dokumen asli dalam bahasa aslinya harus dianggap sebagai sumber yang otoritatif. Untuk informasi yang bersifat kritis, disarankan menggunakan jasa penerjemahan manusia profesional. Kami tidak bertanggung jawab atas kesalahpahaman atau penafsiran yang timbul dari penggunaan terjemahan ini.
+Dokumen ini telah diterjemahkan menggunakan layanan penerjemahan AI [Co-op Translator](https://github.com/Azure/co-op-translator). Meskipun kami berupaya untuk memberikan hasil yang akurat, harap diketahui bahwa terjemahan otomatis mungkin mengandung kesalahan atau ketidakakuratan. Dokumen asli dalam bahasa aslinya harus dianggap sebagai sumber yang otoritatif. Untuk informasi yang penting, disarankan menggunakan jasa penerjemahan manusia profesional. Kami tidak bertanggung jawab atas kesalahpahaman atau penafsiran yang timbul dari penggunaan terjemahan ini.
+<!-- CO-OP TRANSLATOR DISCLAIMER END -->
